@@ -3,7 +3,7 @@ import re,codecs,sys
 import transcoder
 def changelist(input):
 	changelist = [(u'\ufeff ',u''),(u'\ufeff',u''),(u'\u2028',u'#2%'),(u'\xd8',u'#4%'),(u'\xc3',u''),(u'\xc2',u''),] # 
-	regexlist = [(r'([#][2][%])i([a-zA-Z0-9 ."~/|]+[>])','\g<1><\g<2>')]
+	regexlist = [(r'([#][2][%])i([a-zA-Z0-9 ."~/|]+[>])','\g<1><\g<2>'),(r'"nd[a-z]i','')]
 	for (a,b) in changelist:
 		input = input.replace(a,b)
 	for (a,b) in regexlist:
@@ -19,6 +19,16 @@ def snchanges(indata):
 		for okword in okwords:
 			rep = '"#'+okword[1:]
 			indata = indata.replace(okword,rep)
+	return indata
+def nchanges(indata):
+	okwords = open('nfile.txt').read().split()
+	if re.search(r'"n[^aAiIuUfFxXeEoOykgl]',indata):
+		for okword in okwords:
+			splits = okword.split(':')
+			if not len(splits) == 2:
+				print splits
+			else:
+				indata = indata.replace(splits[0],splits[1])
 	return indata
 def alterations(filein,fileout):
 	fin = codecs.open(filein,'r','utf-8')
@@ -36,6 +46,7 @@ def alterations(filein,fileout):
 	for i in xrange(len(words)):
 		word = words[i]
 		word = snchanges(word)
+		word = nchanges(word)
 		# Creating log for श ङ issue. See https://github.com/drdhaval2785/padamanjari/issues/1
 		"""
 		if re.search(r'\s["][sn]',word):
@@ -46,7 +57,6 @@ def alterations(filein,fileout):
 				out.append(changed)
 			else:
 				out.append(word)
-		"""
 		# Creating log for ङ issue. See https://github.com/drdhaval2785/padamanjari/issues/2
 		if re.search(r'"n[^aAiIuUfFxXeEoOykgl]',word):
 			out.append(word)
@@ -55,9 +65,10 @@ def alterations(filein,fileout):
 			counter = counter+1
 		else:
 			out.append(word)
+		"""
+		out.append(word)
 	data = ' '.join(out)
 	log.close()
-	"""
 	print 'changing to slp1'
 	output = transcoder.transcoder_processString(data,'vel','slp1')
 	#fout1 = codecs.open(fileout,'w','utf-8')
@@ -71,7 +82,6 @@ def alterations(filein,fileout):
 	fout1 = codecs.open(fileout,'w','utf-8')
 	fout1.write(output)
 	fout1.close()
-	"""
 if __name__=="__main__":
 	filein = sys.argv[1]
 	print 'started handling', filein
