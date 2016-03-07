@@ -10,6 +10,8 @@ def changelist(input):
 		input = re.sub(a,b,input)
 	input = input.replace(u'#2%','\n')
 	input = input.replace(u'/','|')
+	input = input.replace(u'<','')
+	input = input.replace(u'>','')
 	return input
 def snchanges(indata):
 	okwords = open('snfile.txt').read().split()
