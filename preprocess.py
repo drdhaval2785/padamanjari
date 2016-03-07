@@ -27,7 +27,8 @@ def alterations(filein,fileout):
 	print 'making preprocess changes'
 	data = changelist(data)
 	print "Debugging and writing to log.txt"
-	log = codecs.open('log.txt','w','utf-8')
+	log = codecs.open('log.txt','a','utf-8')
+	log.write('#'+filein+"#\n")
 	words = data.split(' ')
 	counter=1
 	out = []
@@ -54,9 +55,14 @@ def alterations(filein,fileout):
 	output = transcoder.transcoder_processString(output,'slp1','deva')
 	output = output.replace('#','')
 	#output = output.replace('\n','<br/>')
+	print 'putting the data in output folder'
 	fout1 = codecs.open(fileout,'w','utf-8')
 	fout1.write(output)
 	fout1.close()
 if __name__=="__main__":
 	filein = sys.argv[1]
-	alterations(filein,'output/'+filein[:-3]+'txt')
+	print 'started handling', filein
+	fileout = 'output/'+'.'.join(filein.split('.')[:-1])+'.txt'
+	fileout = fileout.replace('PADAMANJARI/PADAMANJARI/','')
+	alterations(filein,fileout)
+	print
