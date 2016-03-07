@@ -5,6 +5,7 @@
 -->
 <e> <s>INIT</s> <in>.rr</in> <out>F</out></e>
 <e> <s>INIT</s> <in>.r</in> <out>f</out></e>
+<e> <s>INIT</s> <in>.a</in> <out>'</out></e>
 
 <e> <s>INIT</s> <in>ai</in> <out>E</out></e>
 <e> <s>INIT</s> <in>au</in> <out>O</out></e>
