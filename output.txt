@@ -20,8 +20,8 @@ lakzaRayEvAdEkzu vfdDiSabdasya vftisidDeH sUtrasyAnarTakyam;
 niyamArTatvAt . anyaTA vardDanakriyAyogizvikArAdizu plutezu ca
 varteta . mA tatra vartizwa, AdEkzveva vartatAmiti niyamaH .
 catuzwayIpakze tu kaTam, yAvataSca saMjYAtvena viniyukte sati
-Sici vfdDiH" ityAdO pradeSAntara eva vfdDiSabdasyAdEkzu
-pravftiryuktA, na tvatrEva saMjYAviniyuktikAle ? ucyate; NityaH
+"#sici vfdDiH" ityAdO pradeSAntara eva vfdDiSabdasyAdEkzu
+pravftiryuktA, na tvatrEva saMjYAviniyuktikAle ? ucyate; "#nityaH
 SabdArTasambanDaH" iti darSanena kvacidapi puruzavyApArAtpra#ag
 vAcakaH san puruzavyApAreRa vAcakaH kriyate . ataH sarve SabdAH
 saMjYArUpeRa sarvAnarTAn pratipAdayituM samarTAH . tatrAniyatArTena
@@ -181,7 +181,7 @@ uBayam" iti vacanAditi sUcayannAha-'vfdDiguRA'vityAdi .
 kiM punaranena granTenocyate ? nanu niyamarUpeRAsya sUtrasya
 pravftiriti; yaTA "eca igGrasvAdeSe" hrasva AdiSyamAna eca igeveti .
 yadyevam, aniyamaprasaNge niyama iti
-SArvaDAtukArDaDAtukayoH",Sici vfdDiH" ityatrEva syAt, atra
+"#sArvaDAtukArDaDAtukayoH","#sici vfdDiH" ityatrEva syAt, atra
 hyasatyasminyoge'lo'ntyasya BavantO
 vfdDiguRAvanantyasyAviSezitatvAdikaScAnikaSva prApnutaH, na tu
 midimfjipugantalaDUpaDarcCidfSikziprakzudrezvapi.
@@ -261,7 +261,7 @@ sagviDAnAdasaMBavaSca . ejantamapi na saMBavati; AtvaviDAnAt .
 rEnOgloSabdAnAmAcArakvibantAnAmaviSezaH, goSabdasya
 kvibantasya "AYta idDAtoH" ityataH "DAtoH" ityanuvfteH DAtureva
 yo DAturiti vijYAnAt sici vfdDyaBAvaH . aBEtsIdityAdO
-Sici vfdDiH" ityanena vyaYjanasya nAprAptAyAM vfdDO viDIyamAnA
+"#sici vfdDiH" ityanena vyaYjanasya nAprAptAyAM vfdDO viDIyamAnA
 halantalakzaRA vfdDirbADikA, Newi" ityayaM ca nizeDo yAvatI
 halantasya vfdDiH, sici vfdDiriti vA, halantasyAca iti vA, sA sarvA
 na BavatIti vijYAyate . tena anardIdityAdO antyasya vfdDirna
@@ -477,7 +477,7 @@ vyapadeSivadBAvenAjAdO mA BUt . tundaparimfjaH, yUyaM
 mamfja, tvayA mamfje . 'saMkramo nAme'tyAdi . saMkrAmato'pakrAmato
 guRavfdDI asmAditi kftvA . 'laGUpaDaguRasyApyatra pratizeDa' iti.
 atra sUtre laGUpaDaguRasyApi pratizeDaH, na tu
-SArvaDAtukArdDaDAtukayoH" ityetasyEvetyarTaH . anena
+"#sArvaDAtukArdDaDAtukayoH" ityetasyEvetyarTaH . anena
 nimitasaptamyAH PalaM darSitam . atra ityanena sUtraM nirdiSyate . iha
 acinoditi Nto liNstibAdeSaH, sTAnivadBAvAd Niditi
 guRapratizeDaH prApnoti, iha "acinavam" iti Nto liNe mipi
@@ -866,7 +866,7 @@ svarasanDimanunAsikaM ca pratiBantsyati . nanu yadyapi saMjYAyAmasidDaH
 plutaH, anunAsikaparyudAse tu sidDaH, tataSca yasyAnena saMjYA kftA
 dvimAtrasya, na so'nunAsikaviDiM prati sTAnI, kintu trimAtra eva . na
 ca sTAnivadBAvAtasyApi pragfhyatvam, alviDitvAt . avaSyaM ca
-SidDaH plutaH svarasanDizu" ityASrayaRIyam, daRqa-A3Qakamiti
+"#sidDaH plutaH svarasanDizu" ityASrayaRIyam, daRqa-A3Qakamiti
 plutasya savarRadIrGeRa nivftiryaTA syAt . taTA ca "aNuR" ityatra
 sarvEreva granTakArEruktam . taTA suSlokA3 iti
 sa#uSloketi--atrApi "aplutavadupasTite" iti plutASraye
@@ -881,7 +881,7 @@ kartavya ityarTaH . tatra "maRIvozwrasya lambete" ityatra
 vASabdasyopamAnArTasya prayogaH . roTasIvetyAdO
 TaCAndasatvAditi nirvAhaH ..
 <adaso mAt .. 1.1.12 ..>
-SvaritenADikAraH" ityatra dvO pakzO-arTADikAraH,
+"#svaritenADikAraH" ityatra dvO pakzO-arTADikAraH,
 SabdADikAraSceti . tatrArTADikAro nAma-yasya yasminsUtre
 svaritatvaM pratijYAtaM tatra tasya yo'rTaH sa utaratrADikriyata iti .
 SabdADikArastu sa eva
@@ -933,7 +933,7 @@ anyAnuroDenApyanuvftisamBavAt ..
 "Se" iti SruteraviSezAt "kASe","kuSe" ityatrApi prasaNga iti
 matvA pfccCati--kimidamiti . supAmAdeSa iti . kASe tEtyatra tu
 lAkzaRikatvAdagrahaRamiti BAvaH . yuzma iti . zazWIbahuvacanasya
-SupAM suluk" ityAdinA Se AdeSaH,"Seze lopaH" . asme iti .
+"#supAM suluk" ityAdinA Se AdeSaH,"Seze lopaH" . asme iti .
 caturTIbahuvacanasya Se . tve me iti . saptamyekavacanasya
 tvamAvekavacane . asame indrAbfhaspatI iti .
 CAndasamudAharaRamityuktvA, itaratu lokikamanukaraRamityuktena
@@ -1006,7 +1006,7 @@ gORArTaprAdurBAvAdutarakAlaM cvyantatve sati
 pragfhyasaMjYAprAptiriti viSezaH . ataH padakAryezvevAyaM nyAyaH, na
 prAtipadikakAryezviti sidDam .
 saMbudDO SAkalyasyetAvanArze .. 1.1.16 ..
-SaMbudDO" ityanenA'nUdyamAna okAro viSezyate, ataH
+"#saMbudDO" ityanenA'nUdyamAna okAro viSezyate, ataH
 kNtIitivannimitasaptamIyamityAha--saMbudDinimita iti .
 parasaptamyAM tu trapo itItyAdO napuMsake na syAditi BAvaH .
 avEdika iti . anAza ityasyArTamAha, fzirvedaH taduktamfziRetyAdO
@@ -1026,7 +1026,7 @@ tEtirIyAstvapragfhyam .
 aYaH .. 1.117 ..
 yadyayameko yogaH syAd "aYa >Äz" iti yaTApaWitaM sUtrakAreRa, tataH
 "uYaH" ityasya SrutenAdeSena sambanDaH syAd, na pragfhyasaMjYayA; sA tu
-NipAta ekAjanAN" iti nityEva syAt, SAkalyaSrutyanuvftyA
+"#nipAta ekAjanAN" iti nityEva syAt, SAkalyaSrutyanuvftyA
 cAdeSe vikalpite rUpadvayameva syAd- u iti, >Äz itIti; na tu
 vitIti tftIya . ato viBajya vyAcazwe . tatra yadyapi pUrvasUtrezu
 sAmAnADikaraRyena nirdeaSAtpradeSezviva pragfhyaSabdo
@@ -1199,7 +1199,7 @@ yadyapi "vatuqatI" iti saMjYAviDO pratyayagrahaRam, taTApi kevalayoH
 pratyayayoH saMjYAyAM prayojanABAvAt tadantayoreva grahaRam .
 vahukftva ityAdi-SaMKyAyAH krayAByAvftigaRane
 kftvasuc,"SaMKyAyA viDArTe DA" "bahvalpArTAt" iti vartamAne
-SaMKyEkavacanAt" iti Sas . SaMKyAyA atiSadantAyAH kan" .
+"#saMKyEkavacanAt" iti Sas . SaMKyAyA atiSadantAyAH kan" .
 tAvatkftva iti-"yatadeteByaH parimARe vatup", "A sarvanAmnaH" .
 katikftva iti--"kimaH saMKyAparimARe qati ca" .
 bahugaRaSabdayorityAdi . kaTaM punargahaRaM nAsti ?
@@ -1347,7 +1347,7 @@ tadasTyAdyanaNvadupasarjana#e'pi Bavati . yatUpasarjanadaSAyAH prAgeva
 prAptaM tadapi Bavati atikrAnto BavakantamatiBavakAniti,
 tasmAnnArTastadantasya saMjYayA, ucyate; avyayasarvanAmnAmityakac
 paramaBavakAniti tadantAnna syAt . "paYcamyAstasil" paramasarvataH,
-SaptamyAstral" paramasarvatra,"A sarvanAmnaH" "vizvagdevayoSca
+"#saptamyAstral" paramasarvatra,"A sarvanAmnaH" "vizvagdevayoSca
 weradra.lYcatO vapratyaye" paramatadra.lN paramayadra.lNtyAdiu na
 syAditi tadantasya saMjYezitavyA . kaTaM punarizyamaRApi laByate ?
 jYApakAditi vakzyAmaH . tatadantasya ca BavantI paramasarvAdivad
@@ -1378,7 +1378,7 @@ taTA ca dakziRapUrvAyA iti saMjYABAvapakze'pi Bavati .
 syAdetat--avayavAnAmeva saMjYA, kAryaM tu "aNgADikAre tasya ca
 tadutarapadasya ca" iti . evamapi dakziRapUrvataH, dakziRapUrvatratyatra
 tasilAdayo na syuH; tasmAtsarvAdyante bahuvrIhO saMjYA vikalpyate .
-SarvAdIni" ityayaM tu vftigranTaH SarvAdyante pravartamAnA saMjYA
+"#sarvAdIni" ityayaM tu vftigranTaH SarvAdyante pravartamAnA saMjYA
 sarvAdInyapi gocarayati" ityevaMparo vyAKyeyaH . yadvA--avayavAnAM
 saMjYAviDAnena tadantasyApi sidDyati, tadantaviDeraByupagamAditi
 .
@@ -1402,7 +1402,7 @@ vA--bahuvrIhO yAni sarvAdIni tAni sarvanAmasaMjYAni na BavantIti
 darSayati . kaTaM punarjYAyate'ByupagatastadantaviDiriti ? ata eva
 nizeDAt . dvitIyaM sUtrArTaM darSayati--bahuvrIhAvityAdi .
 praTamasyodAharaRamAha--priyaviSvAyeti .
-SarvanAmasaMKyayorupasaMKyAnam" iti sarvanAmnaH pUrvanipAte
+"#sarvanAmasaMKyayorupasaMKyAnam" iti sarvanAmnaH pUrvanipAte
 prApte "vA priyayasya" iti priyaSabdasya pUrvanipAtaH . dvyanyAyeti
 . SarvanAmasaMKyayoH" iti dvyanyayoH pUrvanipAte prApte
 paratvAt saNKyAyAH pUrvanipAtaH . dvitIyasyodaharaRamAha--iha
@@ -1655,18 +1655,18 @@ upAgnIti . avyayAditi luk . pUrvapadaprakftitvara eveti .
 samAsasvareRAntodAtatvam . upapayaH kAma iti .
 "SIlikAmiBikzAcariByo RaH" karmaRi GaYantena vA bahuvrIhiH, atra
 muKasvaranivftireva sAkzAtprayojanam, luk tu
-NAvyayIBAvAdato'm" iti viSezapratizeDAt sidDaH, "ataH
+"#nAvyayIBAvAdato'm" iti viSezapratizeDAt sidDaH, "ataH
 kfkamikaMsa" ityatra ca "anutarapadasTasya" iti vartate .
 nanvanyadapyavyayakAryaM samBavati-upAgnikamityakac, upakumBamanya iti
 mumpratizeDaH, upakumBIBUta iti "asya cvO"
 itItvasyopasaNKyAnikaH pratizeDaH, upAgnyaDIyAneti
-SubAmantrite" ityasyOpasaMKyAnikaH pratizeDaH, tatkuto'yaM
+"#subAmantrite" ityasyOpasaMKyAnikaH pratizeDaH, tatkuto'yaM
 kAryaniyama ityata Aha - sarvamidamityAdi . iha cetyAdinA Na
 lokAvyaya" ityatra yadvakzyati --"avyayapratizeDe
 tosunkasunorapratizeDaH" iti, tasyAvaktavyatAM darSayati ..
 Si sarvanAmasTAnam .. 1.1.42 ..
 kuRqAnIti . "jaSSasoJa SiH" SarvanAmasTAne" iti vartamAne
-NapuMsakasya JalacaH" iti num . SarvanAmasTAne cAsambudDO" iti
+"#napuMsakasya JalacaH" iti num . SarvanAmasTAne cAsambudDO" iti
 dIrGo yadyapi "jasaH SIH" NapuMsakAcca" iti vihitasya SISabdasya
 SabdalUpApekzayA napuMsaka hrasvatve "Si" iti rUpaM samBavati, taTApi
 lAkzaRikatvAnna tasya grahaRam, sarvanAmasTAnapradeSezu SigrahaRe
@@ -1761,7 +1761,7 @@ punararTadvayamekasya sUtrasya Bavati ? tantreRa,AvftyA vA . asya ca
 liNgaM viBaktiviSezanirdeaSaH . yadayaM "zyaNH samprasAraRam"
 ityAdO BAvyamAnaviBaktyA nirdeaSAM karoti, tato
 jYApayati--vAkyArTaH saMjYeti . na hi tatra varRasya samBavaH .
-SamprasAraRasya" ityAdO tu BUtaviBaktyA nirdeaSAt jYAyate --varRaH
+"#samprasAraRasya" ityAdO tu BUtaviBaktyA nirdeaSAt jYAyate --varRaH
 saMjYIti . na hi tatra vAkyArTaH samBavati . tatretyAdinA
 dvayorarTayorvizayaviBAgenopasTAnaM darSayati . aduhitarAmiti .
 duherlaN kirmakartari utamEkavacane iwi Na duhasnunamAm" iti
@@ -1973,7 +1973,7 @@ brahmabanDvarTam--mAtrikadvimAtrikatrimAtrikARAmikAM
 mAtrikadvimAtrikatrimAtrikA yaRaH prApnuvantyAntaryataH . nEva loke
 vede'rdDamAtra igasti, nApi mAtriko dvimAtriko vA yaR, yo'sti
 sa Bavizyati . ihAntaratamaSabdaH saptamyanto'pi paWito BAzye .
-STAne'ntaratama uraR raparaH" iti saMhitApAWo'nityaH" tatra
+"#sTAne'ntaratama uraR raparaH" iti saMhitApAWo'nityaH" tatra
 padacCede saptamyantamapi samBavati . tatra cAyamarTaH-zazWIti
 vartate,antaratamo ya AdeSasya sTAnI, tatra zazWI, tasyAdeSa iti
 "akaH savarRe dIrGaH" ityAdO viDIyamAnasya dIrGasyAntaratame
@@ -2004,7 +2004,7 @@ bADitvA'R BavannakAra eveti niyamABAvAdikArokArAvapi raparO
 syAtAm; ye cAmI prAtipadamuH sTAna AdeSAH "AYta idDAtoH"
 ityAdayaH-tezu raparatvaM na syAt .
 dvitIye tu kAmaM guRavfdDyordozo na syAt . taTA hi --
-Sarvezu guRavfdDisaMjYakezu prAptezu aReva Bavati" iti
+"#sarvezu guRavfdDisaMjYakezu prAptezu aReva Bavati" iti
 niyamAdakArAkArAveva guRavfdDI rapare Bavata iti sidDaM
 kartetyAdi, SAstrAntareRa yo'R prasaktaH sa eva niyamAdapi
 BavatItIkArokArAvapi na prApnutaH . nanu "anuyamaprasaNge
@@ -2267,7 +2267,7 @@ suptvamalASrayameva, ucyate; kAryApekzamalviDitvaM
 nodAharaRApekzam . etaduktaM Bavati--yasmin kArye viDIyamAne'la
 evAsADAraRaM kiYcidrUpaM nimitAdirUpeRASrIyate--"haSi" "hali"
 "vyorvali""halNyAbByaH""aqvyavAye" iti - sa evAlviDiH;
-Supi ca" ityatra tu nEvaMviDaM kiYcidasti, kevalaM
+"#supi ca" ityatra tu nEvaMviDaM kiYcidasti, kevalaM
 vfkzAyetyatrodAhAraRe'lAtmakaH sTAnIteyatAvat
 kimudAharaRamiti praSnaH . DAtvAdyAdeSAH prayojanamityutaram . tatra
 "prayujyate'neneti prayojanam" udAharaRaM na prayujyata
@@ -2311,7 +2311,7 @@ dyOpiTityadAdeSA iti . "diva Aèt",
 "paTimaTyuBukzAmAt","tyadAdInAmaH-ityete . nanu sAmAnyAtideSe
 viSezAnatideSaH, tataSca yaTA brAhmaRavadasmin kzatriye vartitavyamiti
 brAhmaRamAtrakAryameva Bavati, na mAWarAdivizezakAryam; taTA
-STAnivadAdeSaH" ityukte yaH sTAnI yadAkAraviSizwaH sUtre
+"#sTAnivadAdeSaH" ityukte yaH sTAnI yadAkAraviSizwaH sUtre
 SrUtastadAdeSasya tadAkAraprayuktenEva kAryeRa Bavitavyam . "ktvo
 lyap" ityatra ca vastusTityA sannihitamapi valAditvaM sTAnirUpeRa
 nASritam . taTA hi-iqAdirapi ktvA Bavatyeva,ktvA kevalo'pi
@@ -2345,7 +2345,7 @@ vAkyArTamAha--ajAdeSa itAyadi . kimarTamidamucyate, pUrvatra
 sTAnikAryamAdeSe'tidizwam, iha tu sTAnini sati pUrvasya
 yatkAryaM tadAdeSe'pi sati purvasya BavatItyatidiSyate . nanu
 tatrApi sTAninimitamanyasya tadapyatidiSyate, yaTA vfkzAyeti
-Supi ca" iti dIrGatvam ? evaM tarhyAlviDyarTamidam . taTA
+"#supi ca" iti dIrGatvam ? evaM tarhyAlviDyarTamidam . taTA
 hi-vavraScetyudatve Na saMprasAraRe saMprasAraRam" iti vakArasya
 saMprasAraRapratizeDaH sTAnyalASrayo'smAdvacanAdBavati . idaM ca
 SaMprasAraRe paraH pratizeDaH" iti pakze prayojanam,
@@ -2478,7 +2478,7 @@ SezazazWa.la ca samAsa iti na kaScid doza iti sTitam .
 pawa.ltIti . RAvizWavaditi wilopaH . avaDIditi . "hano vaDa
 liN" "luiN ci" iti vaDAdeSaH . halantalakzaReti . "vadavraja" ityatra
 halantasyetyanuvfterhalantalakzaRA . bahuKawvaka ityatra
-SvaradIrGayalopezu lopAjAdeSo na sTAnivad" iti vacanAt
+"#svaradIrGayalopezu lopAjAdeSo na sTAnivad" iti vacanAt
 svaraviDAvapyatra sTAnivatvaM Bavatyeva .
 praSna iti . "yajayAcayata" ityAdinA naN, "cCravoH SUWa" iti cCasya
 SaH . tuki na sTAnivadBavatIti . tuki kartavye na
@@ -2938,7 +2938,7 @@ tadBavatItyarTaH .
 padasaMjYA BavatIti . nanu ca sTAnivadBAvenApi sidDA padasaMjYA,
 iha tarhi tA tA piRAqAnAmiti-taccCabdAtparasya jasaH SiH,
 "SeScCandasi bahulam" iti lope NapuMsakasya JalacaH" iti num,
-SarvanAmasTAne" iti dIrGaSca Bavati; anaqvAn-- sorlope
+"#sarvanAmasTAne" iti dIrGaSca Bavati; anaqvAn-- sorlope
 numBavati; aDok--aqguRO BavataH; nyamArw-mfjervfdDiH;
 underlaN itilope SnamAwO BavataH; "SnAnnalopaH"--Aènat;
 agnicit-kvipo lope tugBavati ? etAnyapi sTAnivadBAvenEva
@@ -3116,7 +3116,7 @@ avayavasya tvanvAyaSizwA . yatra ca subantaM paSyati tatra tasyApIti,
 tena rAjYa ityAdO subantABAve'pi Bavati . subantasadBAve tu
 tasya samudAyasya ceti vivektavyam . sarvanAmasTAne'pi
 "asarvanAmasTAne" iti pratizeDAt padasaMjYA na Bavizyati . nanu
-SvAdizu" iti yA prAptiH samudAyasya, tasyA eva sa pratizeDaH,
+"#svAdizu" iti yA prAptiH samudAyasya, tasyA eva sa pratizeDaH,
 netyAha; tatrApi subantamityanuvartate, prasajyapratizeDaScASrIyate,
 tatsAmarTyAt "anantarasya viDirvA Bavati pratizeDo vA" iti
 nASrIyate; tataScAyamarTo Bavati--SarvanAmasTAne parataH pUrvasay
@@ -3438,7 +3438,7 @@ aTeha kasmAdejantasya saMjYA na Bavati "eco'yavAyAvaH" iti, kiM
 syAt ? anekAltvAdayAdayaH sarvAdeSAH syuH; tataSca
 cayanalavanAdizvayanamiti prApnoti,
 prakaraRAdivaSAccAkzAdivadarTaviSezAvagatiH syAt, nEza dozaH;
-NirdiSyamAnasyAdeSA Bavanti" ityevaM Bavizyanti . aTa vA-yaTA ecA
+"#nirdiSyamAnasyAdeSA Bavanti" ityevaM Bavizyanti . aTa vA-yaTA ecA
 tadantaviDiH, evamayAdiBirapi Bavizyati . evamapi"Ad guRaH" ityatra
 AdityavarRAnto gfhyate, acIti cAjAderiti Kawvendra
 ityAdAvavarRAntasya samudAyasyAjAdeSca guRaprasaNgaH .
