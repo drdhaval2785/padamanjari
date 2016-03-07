@@ -15,9 +15,10 @@ def changelist(input):
 	return input
 def snchanges(indata):
 	okwords = open('snfile.txt').read().split()
-	for okword in okwords:
-		rep = '"#'+okword[1:]
-		indata = indata.replace(okword,rep)
+	if re.search(r'\s["][sn]',indata):
+		for okword in okwords:
+			rep = '"#'+okword[1:]
+			indata = indata.replace(okword,rep)
 	return indata
 def alterations(filein,fileout):
 	fin = codecs.open(filein,'r','utf-8')
@@ -34,24 +35,34 @@ def alterations(filein,fileout):
 	out = []
 	for i in xrange(len(words)):
 		word = words[i]
-		if re.search(r'\s["][sn]',word,):
+		word = snchanges(word)
+		# Creating log for श ङ issue. See https://github.com/drdhaval2785/padamanjari/issues/1
+		"""
+		if re.search(r'\s["][sn]',word):
 			changed = snchanges(word)
-			log.write(str(counter)+":"+word+"\n")
+			#log.write(str(counter)+":"+word+"\n")
 			counter = counter+1
 			if not changed == word:
 				out.append(changed)
 			else:
 				out.append(word)
+		"""
+		# Creating log for ङ issue. See https://github.com/drdhaval2785/padamanjari/issues/2
+		if re.search(r'"n[^aAiIuUfFxXeEoOy]',word):
+			out.append(word)
+			log.write(str(counter)+":"+word+"\n")
+			counter = counter+1
 		else:
 			out.append(word)
 	data = ' '.join(out)
 	log.close()
+	"""
 	print 'changing to slp1'
 	output = transcoder.transcoder_processString(data,'vel','slp1')
 	#fout1 = codecs.open(fileout,'w','utf-8')
 	#fout1.write(output)
 	#fout1.close()
-	print 'changing to deva'
+	print 'changing to Devanagari'
 	output = transcoder.transcoder_processString(output,'slp1','deva')
 	output = output.replace('#','')
 	#output = output.replace('\n','<br/>')
@@ -59,6 +70,7 @@ def alterations(filein,fileout):
 	fout1 = codecs.open(fileout,'w','utf-8')
 	fout1.write(output)
 	fout1.close()
+	"""
 if __name__=="__main__":
 	filein = sys.argv[1]
 	print 'started handling', filein
