@@ -57,6 +57,7 @@ def alterations(filein,fileout):
 				out.append(changed)
 			else:
 				out.append(word)
+		"""
 		# Creating log for ङ issue. See https://github.com/drdhaval2785/padamanjari/issues/2
 		if re.search(r'"n[^aAiIuUfFxXeEoOykgl]',word):
 			out.append(word)
@@ -65,8 +66,7 @@ def alterations(filein,fileout):
 			counter = counter+1
 		else:
 			out.append(word)
-		"""
-		out.append(word)
+		#out.append(word)
 	data = ' '.join(out)
 	log.close()
 	print 'changing to slp1'
