@@ -48,9 +48,10 @@ def alterations(filein,fileout):
 				out.append(word)
 		"""
 		# Creating log for ङ issue. See https://github.com/drdhaval2785/padamanjari/issues/2
-		if re.search(r'"n[^aAiIuUfFxXeEoOy]',word):
+		if re.search(r'"n[^aAiIuUfFxXeEoOykgl]',word):
 			out.append(word)
-			log.write(str(counter)+":"+word+"\n")
+			rep = word.replace('\n',' ')
+			log.write(str(counter)+":"+rep+"\n")
 			counter = counter+1
 		else:
 			out.append(word)
