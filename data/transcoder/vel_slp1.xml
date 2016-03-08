@@ -17,6 +17,7 @@
 <e> <s>INIT</s> <in>kh</in> <out>K</out></e>
 <e> <s>INIT</s> <in>gh</in> <out>G</out></e>
 <e> <s>INIT</s> <in>"n</in> <out>N</out></e>
+<e> <s>INIT</s> <in>ccch</in> <out>cC</out></e>
 <e> <s>INIT</s> <in>ch</in> <out>C</out></e>
 <e> <s>INIT</s> <in>jh</in> <out>J</out></e>
 <e> <s>INIT</s> <in>~n</in> <out>Y</out></e>
