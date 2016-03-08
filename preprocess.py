@@ -20,16 +20,6 @@ def snchanges(indata):
 			rep = '"#'+okword[1:]
 			indata = indata.replace(okword,rep)
 	return indata
-def nchanges(indata):
-	okwords = open('nfile.txt').read().split()
-	if re.search(r'"n[^aAiIuUfFxXeEoOykgl]',indata):
-		for okword in okwords:
-			splits = okword.split(':')
-			if not len(splits) == 2:
-				print splits
-			else:
-				indata = indata.replace(splits[0],splits[1])
-	return indata
 def slpchanges(indata):
 	okwords = open('slpchanges.txt').read().split()
 	for okword in okwords:
@@ -55,7 +45,6 @@ def alterations(filein,fileout):
 	for i in xrange(len(words)):
 		word = words[i]
 		word = snchanges(word)
-		word = nchanges(word)
 		# Creating log for श ङ issue. See https://github.com/drdhaval2785/padamanjari/issues/1
 		"""
 		if re.search(r'\s["][sn]',word):
@@ -66,7 +55,6 @@ def alterations(filein,fileout):
 				out.append(changed)
 			else:
 				out.append(word)
-		"""
 		# Creating log for ङ issue. See https://github.com/drdhaval2785/padamanjari/issues/2
 		if re.search(r'"n[^aAiIuUfFxXeEoOykglnm]',word):
 			out.append(word)
@@ -75,7 +63,8 @@ def alterations(filein,fileout):
 			counter = counter+1
 		else:
 			out.append(word)
-		#out.append(word)
+		"""
+		out.append(word)
 	data = ' '.join(out)
 	log.close()
 	print 'changing to slp1'
