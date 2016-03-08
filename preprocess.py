@@ -30,6 +30,15 @@ def nchanges(indata):
 			else:
 				indata = indata.replace(splits[0],splits[1])
 	return indata
+def slpchanges(indata):
+	okwords = open('slpchanges.txt').read().split()
+	for okword in okwords:
+			splits = okword.split(':')
+			if not len(splits) == 2:
+				print splits
+			else:
+				indata = indata.replace(splits[0],splits[1])
+	return indata
 def alterations(filein,fileout):
 	fin = codecs.open(filein,'r','utf-8')
 	data = fin.read()
@@ -74,6 +83,7 @@ def alterations(filein,fileout):
 	#fout1 = codecs.open(fileout,'w','utf-8')
 	#fout1.write(output)
 	#fout1.close()
+	output = slpchanges(output)
 	print 'changing to Devanagari'
 	output = transcoder.transcoder_processString(output,'slp1','deva')
 	output = output.replace('#','')
