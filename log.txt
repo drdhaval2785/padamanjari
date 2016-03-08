@@ -1,350 +1,243 @@
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a1p1.htm#
-1:"sucaavavakaa"se praa"nmukha
-2:ade"nvya~njanaanaa.m
-3:ya"n,
-4:pak.se k"ntiiiti
-5:k"nti.m
-6:kartari ca"n"
-7:sthite "saca"nntasyaa"ngasya
-8:"saca"nnimitasyaiva prati.sedha.h
-9:ti"nnimitasya
-10:tu ti"nnimitasyaapi
-11:gu.no bahira"ngo.antarbhuuta"saca"nnimitaabhyaamiyaRuva"nbhyaa.m
-12:iti-"kamer.ni"n"
-13:"ntkaaryisya
-14:? dii"nstaavanna
-15:~nama"n.nanaanaam, naapyabhra
-16:ityalu"nna
-17:sambandhaada"nmaatrasya
-18:"e"n.h
-19:eva.m satyanaa"ntyaanirthaka.m
-20:i"ntvaai"ntve vyavasthaapayati
-21:| "aa"nmaryaadaabhividhyo.h"
-22:aa"nnaa"nerekaade"sa
-23:ata.h k"ntiiitivannimitasaptamiiyamityaaha--sa.mbuddhinimita
-24:ekaajanaa"n"
-25:"n"sibdasya "iyaa.diyaajiikaaraa.naamupasa"nkhyaanam"
-26:do-pra.nidyati, de"n-pra.nidayate,
-27:yaavataa dode"ndhe.taama"sityapyaatve
-28:dode"ndhe.danukara.naanaamapi
-29:"dii"n" ityetadanukara.nasyaatvamasti
-30:me"n.h
-31:""nsi"nyo.h
-32:sa.mj~naa"sraya.m tadasthyaadyana"nvadupasarjana#e.api
-33:paramayadra.l"ntyaadiu
-34:ukte "di"nnaamaanyataraale"
-35:yo diksamaasa.h-"di"nnaamaanyantaraale"
-36:caccchandasi","kimeti"nvyayaghaadaamu"
-37:ekaajanaa"n"
-38:"caadirekaajanaa"n"
-39:| aa"npuurvaaddhaa~na.h
-40:|| lu"nmukhasvaropacaaraa
-41:"vibhaa.saa "n"syo.h"
-42:".sya"n.h
-43:"ti"n"sca"
-44:tarapi "kimeti"nvyayaghaad"
-45:i"nvihita iti
-46:vyavadhaanaadau"n.h
-47:""saasa ida"nhalo.h"
-48:-"yatra "ndaade"so
-49:|| "ncci
-50:"nsirvaanaamasthaanoya.h"iti
-51:taata"nntyasya kasmaanna
-52:ananyaartha"ntve.svina"nadi.su caritaarthametad
-53:caritaartha"ntve
-54:taatii"n pare.na
-55:"ntvisya
-56:"ntvimiti;
-57:"ntvisya
-58:"ntkira.na.m
-59:i"ntkira.nasya saavakaa"satvaadviprati.sedhaatsarvaade"sa
-60:""ncci" ityetanniyamaartha.m
-61:"ndevi"
-62:"ntvaaidi
-63:yathaa "ntkidityaadaaviti
-64:"ti"nnta.m
-65:eva.m yaaterya"nntaat
-66:aallopasya sthaanivatvaacci.nolu"nnyaayenaasiddhatvaadvaa
-67:ti.s.tha terya"nntaat
-68:cotarasuutreka.n.duuatirityatra upa"nprasa"nga.m
-69:punariya"n,
-70:ya"nntaat
-71:bebhidyaterya"nntaat.rci
-72:vadha li"n"
-73:na"n,
-74:"ntvimapi
-75:ya"npratyaye
-76:ni"n.h
-77:na; "kvilugupadhaatvaca"npanihranirhraasakutve.su"
-78:| "kvilugupadhaatvaca"nparanirhraasakutve.svajaade"so
-79:| ca"nparo
-80:ya"sca"nparo
-81:ca"npara
-82:"ca"n"
-83:ya"n.h,
-84:k.rti supti"nntamiti,
-85:la"n,
-86:iida"nhalo.h"
-87:supti"nntamiti
-88:supti"nntamiti
-89:"supti"nntam"
-90:"na "nsi.mbuddhyo.h"
-91:ida"nhalo.h"
-92:yasmaacchaasera"n vihitastasya
-93:lui"n yada"nga.m
-94:"nsi,
-95:pratyayalak.sa.nena ti"nntatvaadaamantasya
-96:"supti"nntam"
-97:ida"nhalo.h"
-98:"ti"n"nti"n.h"
-99:pu"n.nau"
-100:".taa"nsi"nsaaminaatsya.h" "dvitiiyaa.tausvena.h"
-101:|| e"npraacaa.m
+1:ade"nvya~njanaanaa.m
+2:ya"n,
+3:kartari ca"n"
+4:gu.no bahira"ngo.antarbhuuta"saca"nnimitaabhyaamiyaRuva"nbhyaa.m
+5:iti-"kamer.ni"n"
+6:i"ntvaai"ntve vyavasthaapayati
+7:ekaajanaa"n"
+8:do-pra.nidyati, de"n-pra.nidayate,
+9:yaavataa dode"ndhe.taama"sityapyaatve
+10:dode"ndhe.danukara.naanaamapi
+11:"dii"n" ityetadanukara.nasyaatvamasti
+12:sa.mj~naa"sraya.m tadasthyaadyana"nvadupasarjana#e.api
+13:paramayadra.l"ntyaadiu
+14:caccchandasi","kimeti"nvyayaghaadaamu"
+15:ekaajanaa"n"
+16:"caadirekaajanaa"n"
+17:| aa"npuurvaaddhaa~na.h
+18:"ti"n"sca"
+19:tarapi "kimeti"nvyayaghaad"
+20:i"nvihita iti
+21:""saasa ida"nhalo.h"
+22:|| "ncci
+23:ananyaartha"ntve.svina"nadi.su caritaarthametad
+24:caritaartha"ntve
+25:taatii"n pare.na
+26:"ntvisya
+27:"ntvimiti;
+28:"ntvisya
+29:"ntkira.na.m
+30:i"ntkira.nasya saavakaa"satvaadviprati.sedhaatsarvaade"sa
+31:""ncci" ityetanniyamaartha.m
+32:"ndevi"
+33:"ntvaaidi
+34:yathaa "ntkidityaadaaviti
+35:cotarasuutreka.n.duuatirityatra upa"nprasa"nga.m
+36:punariya"n,
+37:vadha li"n"
+38:na"n,
+39:"ntvimapi
+40:ya"npratyaye
+41:ni"n.h
+42:na; "kvilugupadhaatvaca"npanihranirhraasakutve.su"
+43:| "kvilugupadhaatvaca"nparanirhraasakutve.svajaade"so
+44:| ca"nparo
+45:ya"sca"nparo
+46:ca"npara
+47:"ca"n"
+48:la"n,
+49:iida"nhalo.h"
+50:ida"nhalo.h"
+51:yasmaacchaasera"n vihitastasya
+52:ida"nhalo.h"
+53:"ti"n"nati"na.h"
+54:pu"n.nau"
+55:|| e"npraacaa.m
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a1p2.htm#
 1:paada.h  gaa"nku.taadibhyo.a~n.nini"nt
 2:i"nd uitsa.mj~naka"nkaarayukta.h,
-3:"ndaade"si.h
+3:"ndaade"sa.h
 4:"ntkaaryaai.ni
-5:ku.ti"nmiti
-6:ku.t"na ku.t"nmiti
-7:"nti"sca "nadayasya
-8:tavyaa"ndaya.h,
-9:i"nd itsa.mj~naka"nkaarayukta
-10:"nccchibda.h
-11:pratyabhij~naabhaavaat k"ntpride"se.svasya
-12:"nccchibda uccaarite
-13:"ntkaari.nasya
-14:k"ntpride"se.su
-15:"ntsi.mj~naavidhaanamanarthakamaapadyate,
-16:k"ntiprade"se.svasya graha.na.m
-17:| .ai"n"sca.a.agaa"n
-18:ku"n"sabda
-19:tarhi uccuku.ti.sati-.a"nti.h.a
-20:"ntvim,
-21:"ntvisya
-22:| ya"nntaadapi
-23:"ntimaa"srityaatmanepada.m
-24:saptamiisamarthaadvati.h-"ntiivi
-25:.aanudaata"nti.h.a
-26:"nt,
-27:"ntvisya
-28:-.abha~njabhaasamido ghurac.a.avidibhidiccchider"nd.a
-29:"ntvimanityamiti
-30:"ntvividhirna bhavati,
-31:"ntvaallighuupadhagu.naabhaava.h
-32:"ntvipak.se
-33:uva"n,
-34:"ntvaabhaavi.h
-35:"ntvini.sedhe
-36:itya"ntimutamamaa"sritya gu.na.h
-37:"ntvi.m
+5:"nti"sca "nadayasya
+6:tavyaa"ndaya.h,
+7:i"nd itsa.mj~naka"nkaarayukta
+8:"nccchibda.h
+9:pratyabhij~naabhaavaat k"ntpride"se.svasya
+10:"nccchibda uccaarite
+11:"ntkaari.nasya
+12:k"ntpride"se.su
+13:"ntsi.mj~naavidhaanamanarthakamaapadyate,
+14:| .ai"n"sca.a.agaa"n
+15:ku"n"sabda
+16:tarhi uccuku.ti.sati-.a"nti.h.a
+17:"ntvim,
+18:"ntvisya
+19:"ntimaa"srityaatmanepada.m
+20:saptamiisamarthaadvati.h-"ntiivi
+21:.aanudaata"nti.h.a
+22:"nt,
+23:"ntvisya
+24:-.abha~njabhaasamido ghurac.a.avidibhidiccchider"nd.a
+25:"ntvimanityamiti
+26:"ntvividhirna bhavati,
+27:"ntvaallighuupadhagu.naabhaava.h
+28:"ntvipak.se
+29:uva"n,
+30:"ntvaabhaavi.h
+31:"ntvini.sedhe
+32:itya"ntimutamamaa"sritya gu.na.h
+33:"ntvi.m
+34:"ntvi.m
+35:.a"ncci
+36:taata"n.h
+37:"ncci
 38:"ntvi.m
-39:.a"ncci
-40:taata"n.h
-41:"nnni
-42:"ncci
-43:"ntvi.m
-44:"ntvi.m
-45:"ntvaaidvikara.nasya
-46:"nti.h.a
-47:sambadhyate-"ndupide"saad, adupade"saaditi
-48:"ntve
-49:jajaagaratu.h, jajaagaru.h-.ajaagrovici.n.nal"ntsu.a
-50:"ntvaaitide"se
-51:tvavici.n.nal"ntsviti
-52:| .a~ni"nndhii
-53:vu"nna
-54:vu"nna
-55:"ndgriha.namapyanuvartate, tatsaamarthyaadanaglik.sa.naayaa
-56:lu"n.a
-57:nanu .aku"n"sabde.a
-58:ityuktvaa i"nhanyoriti
-59:|| li"nsicaavaatmanepade.su
-60:na li"nparasmaipadasya;
-61:.ali"n.h
-62:|| li"nsijbhyaamaak.siptasya
-63:| nanva"nvidhau
-64:| .ali"nsicoraatmanepade.su.a
-65:sijgraha.na.m li"nniv.rtyarthamiti
-66:li"nsa.mbaddhamiti tadanuv.rtau
-67:li"n.a
-68:ki.m li"nniv.rtyetyatraaha-uk.saratreti
-69:lii"n yaasu.tniv.rtyarthameva
-70:.ani.s.thaa "sii"nsvidimidik.svididh.r.sa.h.a
-71:"ntvi.m "ntiityupidhaalopa.h
-72:kitva"ntviyo.h ka"scidvi"se.sa.h,
-73:se.nni.s.taa "sii"nsvidimidi
-74:puu"n"sca-puu"n"sca
-75:.apuu"n.h.a
-76:"sii"nsvidimidik.svididh.r.sa.h
-77:ya"nlu"nniv.rtyartha.h,
-78:|| puu"n.h
-79:i.dvidhau .apuu"n"sca.a
-80:.apuu"n"sca.a ityaarabhya
-81:puu"n.h
-82:prati.sedhaadata aaha-puu"n"sceti
-83:.a.rteriiya"n.aiti,
-84:gaccheti ti"nntasya.ati"n"nti"n.h.a
-85:.ati"n"nti"n.h.a
-86:tena .ati"n"nti"n.h.a
-87:.ae"n.h
-88:ekaajanaa"n.a ityatraikagraha.naadvar.nagraha.ne
-89:i"n;
-90:"nsimbuddhyo.h.a
-91:ti"n.h,
-92:eva.m ti"nntaanaam,
-93:svaarthikaaste .ati"n"sca.a
-94:"nsi.mbuddhyo.h.a
-95:hi ti"nntaanaam--"aakhyatamaakhyaatena
-96:ti"nntaanaa.m
-97:.a v.rddhetkosalaajaadaa~n~nya"n.a
-98:ti"nntasya
-99:praatipadika.m "sva"surasyokaaraakaaralopa"scetyuu"nntatve
+39:"ntvi.m
+40:"ntvaaidvikara.nasya
+41:"nti.h.a
+42:sambadhyate-"ndupide"saad, adupade"saaditi
+43:"ntve
+44:jajaagaratu.h, jajaagaru.h-.ajaagrovici.n.nal"ntsu.a
+45:"ntvaaitide"se
+46:tvavici.n.nal"ntsviti
+47:"ndgriha.namapyanuvartate, tatsaamarthyaadanaglik.sa.naayaa
+48:lu"n.a
+49:nanu .aku"n"sabde.a
+50:ityuktvaa i"nhanyoriti
+51:na li"nparasmaipadasya;
+52:.ali"n.h
+53:| nanva"nvidhau
+54:li"nsa.mbaddhamiti tadanuv.rtau
+55:li"n.a
+56:lii"n yaasu.tniv.rtyarthameva
+57:.ani.s.thaa "sii"nsvidimidik.svididh.r.sa.h.a
+58:"ntvi.m "ntiityupidhaalopa.h
+59:kitva"ntviyo.h ka"scidvi"se.sa.h,
+60:se.nni.s.taa "sii"nsvidimidi
+61:puu"n"sca-puu"n"sca
+62:.apuu"n.h.a
+63:"sii"nsvidimidik.svididh.r.sa.h
+64:|| puu"n.h
+65:i.dvidhau .apuu"n"sca.a
+66:.apuu"n"sca.a ityaarabhya
+67:puu"n.h
+68:prati.sedhaadata aaha-puu"n"sceti
+69:.a.rteriiya"n.aiti,
+70:gaccheti ti"nntasya.ati"n"nti"n.h.a
+71:.ati"n"nti"n.h.a
+72:tena .ati"n"nti"n.h.a
+73:ekaajanaa"n.a ityatraikagraha.naadvar.nagraha.ne
+74:i"n;
+75:ti"n.h,
+76:svaarthikaaste .ati"n"sca.a
+77:.a v.rddhetkosalaajaadaa~n~nya"n.a
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a1p3.htm#
 1:graha.nam| "sii"n,
 2:aa"n,
-3:.thna "nsi.mbuddhyo.h.aiti
-4: padama~njarii anudaata"nti
-5:.thanudaata"ntistaataa.mjhathaasaathaandhvami.dvahimahi"n.a,
-6:anudaata"nti.h
-7:taavat prak.rtiniyamo.anudaata"ndaaidibhya
-8:bhavata.h, anudaata"ncche.saanintaramevetyeva.m
-9:nirastam-ca"n"nbhyaamaatmanepadaprasa"nga
-10:ca"n"nai
-11:dhaatavo "nti"sceti|
-12:.thanudaata"nti.h.a
-13:eva ca"n"nbhyaamaatmanepada.m
-14:ya"nntaadapi
-15:"nd,
-16:ityuktam| ca"n"nestu
-17:anudaata"nti aatmanepadameveti,
-18:aacchaadane.a,.th.suu"n praa.niprasave.a,"sii"nsvapneadaadaya.h|
-19:.th"sii"n.h
-20:yaavataa .thanudaata"nti
-21:prav.rte .thanudaata"nti.h.akartaryaatmanepadamapraaptamiti
-22:.thri"n "sayagli"nk.su.ayadaa
-23:.thanudaata"nti aatmanepadam.a.thbhaavakarma.no.h.a
-24:sarve.saa.m daaruupaa.naamityaaha-aa"npuurvaaddaa~na
-25:.th"slaaghahnu"nsthaa"sapaam.a iti
-26:itiikaaraakaarayo.h|| padama~njarii sparddhaayaamaa"n.h||
-27:tathaapyaa"npuurvastatra
-28:pravartitumiccchatiityartha.h|| padama~njarii pratyaa"nbhyaa
-29:"ntkira.na.m
-30:ti"nnighaato.atra
-31:syaad-.thanudaarta"nti.h.a ityaarabhyeta.h
-32:"ntvaaidika.m
-33:"ntvaaidika.m
-34:"ntvisya
-35:.thanudaata"nti.h.a ityanenetyartha.h|
-36:"snudhaatu.aityaadinova"n||
-37:"nstu.thaayaadaya aarddhadhaatuke
-38:aa"npuurvo
-39:lak.sayate.h svaritetvamanaar.sam|| padama~njarii samudaa"nbhyo
-40:|| vyaa"nparibhyo
-41:|| padama~njarii budhayudhana"sajane"nprudrustrubhyo
-42:lui"n||
-43:iti suutre.naa"n|
-44:evaa"nvidhaanaat
+3: padama~njarii anudaata"nti
+4:.thanudaata"ntistaataa.mjhathaasaathaandhvami.dvahimahi"n.a,
+5:anudaata"nti.h
+6:taavat prak.rtiniyamo.anudaata"ndaaidibhya
+7:bhavata.h, anudaata"ncche.saanintaramevetyeva.m
+8:nirastam-ca"n"nbhyaamaatmanepadaprasa"nga
+9:ca"n"nai
+10:dhaatavo "nti"sceti|
+11:.thanudaata"nti.h.a
+12:eva ca"n"nbhyaamaatmanepada.m
+13:"nd,
+14:ityuktam| ca"n"nestu
+15:anudaata"nti aatmanepadameveti,
+16:aacchaadane.a,.th.suu"n praa.niprasave.a,"sii"nsvapneadaadaya.h|
+17:.th"sii"n.h
+18:yaavataa .thanudaata"nti
+19:prav.rte .thanudaata"nti.h.akartaryaatmanepadamapraaptamiti
+20:.thri"n "sayagli"nk.su.ayadaa
+21:.thanudaata"nti aatmanepadam.a.thbhaavakarma.no.h.a
+22:sarve.saa.m daaruupaa.naamityaaha-aa"npuurvaaddaa~na
+23:.th"slaaghahnu"nsthaa"sapaam.a iti
+24:itiikaaraakaarayo.h|| padama~njarii sparddhaayaamaa"n.h||
+25:tathaapyaa"npuurvastatra
+26:pravartitumiccchatiityartha.h|| padama~njarii pratyaa"nbhyaa
+27:"ntkira.na.m
+28:syaad-.thanudaarta"nti.h.a ityaarabhyeta.h
+29:"ntvaaidika.m
+30:"ntvaaidika.m
+31:"ntvisya
+32:.thanudaata"nti.h.a ityanenetyartha.h|
+33:"snudhaatu.aityaadinova"n||
+34:"nstu.thaayaadaya aarddhadhaatuke
+35:aa"npuurvo
+36:lak.sayate.h svaritetvamanaar.sam|| padama~njarii samudaa"nbhyo
+37:|| vyaa"nparibhyo
+38:|| padama~njarii budhayudhana"sajane"nprudrustrubhyo
+39:iti suutre.naa"n|
+40:evaa"nvidhaanaat
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a1p4.htm#
-1:aa"nmaryaadaabhividhyoriti|
-2:adudruvad ityaatraantarbhuutaca"npek.satvaad
-3:bhavi.syati-"ntyevi
-4:.thsupti"nntam.a
-5:pratyayoriti, iyaRuva"nsthaanaprati.sedhaat|
-6:ca li"ngam-iyaRuva"nsthaanaprati.sedha
-7:aa"npuurva.msya
-8:te.saamaa"npuurvasya dhyaayate.h
-9:iyaRuva"nsthaanaprati.sedhe
-10:ya.nsthaanaprati.sedhaprasa"nga.h; avayavayoriyaRuva"nsthaanatvaad|
-11:yasyaa"ngasyeyuvau tatprati.sedhaada"ngasyeyaRuva"nvidhanaasamarthyaada"ngasyaak.sepa.h,
-12:iyaRuva"nsthaanataa
-13:ati"sriye braahma.naaya|| padama~njarii neyaRuva"nsthaanaavastrii||
-14:iyavaRu"nsthaanau
-15:iyaRuva"nsthaanaaviti
-16:l.r"n,.th.rddhano.h sye.a
-17:dhaatosta"nvidhaanaad
-18:.sya"nntasya puurvapadasyocyamaana.m
-19:tat.sya"nntam,
-20:yat.sya"nnta.m
-21:.thneyaRuva"nsthaanaavastrii.a
-22:"nsi.mbuddhyo.h
-23:"nsi.mbuddhyo.h.a
-24:supti"nbhyaa.m vi"se.sa.naadeva
-25:"nsimbuddhyo.h.a iti
-26:"nsimbuddhyo.h.a
-27:"n"syo.h.a
-28:gher"ntiiiti
-29:ti"nntamudaatavat, tata"scaayamabhipraitiityatraapi
-30:"ndikarmaka.h,
-31:diiptivaacinaamagraha.nam|| padama~njarii "slaaghahuunu"nsthaa"sapaa.m
-32:sidhyati|| padama~njarii pratyaa"nbhyaa.m
-33:aa"npuurvasya pratipuurvasya
-34:vyaapaara ityatraaha--pratyaa"npuurva"scetyaadi
-35:tailamiti|| adhi"sii"nsthaasaa.m
-36:bruuyaat|| padama~njarii upaanvadhyaa"nvasa.h||
-37:adhi"sii"nsthaasaamityata.h| aadhaaraniv.rtyarthamiti|
-38:ekaajanaa"n.a
-39:a"nvidhaaveve.syate,
-40:.thti"ncodaativati.a
-41:itya"n,
-42:.thpa~ncamyapaa"nparibhi.h.a
-43:itya"npratyaya.h|
-44:.thaa"nmaryaadaabhividhyo.h.a
-45:praarthanaayaa.m li"n,
-46:garhaarthe li"n|
-47:syapratyayasvare.na ti"nntamudaatavat|| padama~njarii la.h
-48:puurvaacaaryaanurodhena|| padama~njarii ti"nstrii.ni
-49:.thnitya.m "nti.h.a
-50:ti"nstrii.nitrii.ni
-51:ti"n"sabdasya trii.nitrii.niiti
+1:adudruvad ityaatraantarbhuutaca"npek.satvaad
+2:bhavi.syati-"ntyevi
+3:pratyayoriti, iyaRuva"nsthaanaprati.sedhaat|
+4:ca li"ngam-iyaRuva"nsthaanaprati.sedha
+5:aa"npuurva.msya
+6:te.saamaa"npuurvasya dhyaayate.h
+7:iyaRuva"nsthaanaprati.sedhe
+8:ya.nsthaanaprati.sedhaprasa"nga.h; avayavayoriyaRuva"nsthaanatvaad|
+9:yasyaa"ngasyeyuvau tatprati.sedhaada"ngasyeyaRuva"nvidhanaasamarthyaada"ngasyaak.sepa.h,
+10:iyaRuva"nsthaanataa
+11:ati"sriye braahma.naaya|| padama~njarii neyaRuva"nsthaanaavastrii||
+12:iyavaRu"nsthaanau
+13:iyaRuva"nsthaanaaviti
+14:l.r"n,.th.rddhano.h sye.a
+15:dhaatosta"nvidhaanaad
+16:.thneyaRuva"nsthaanaavastrii.a
+17:supti"nbhyaa.m vi"se.sa.naadeva
+18:gher"ntiiiti
+19:"ndikarmaka.h,
+20:diiptivaacinaamagraha.nam|| padama~njarii "slaaghahuunu"nsthaa"sapaa.m
+21:sidhyati|| padama~njarii pratyaa"nbhyaa.m
+22:aa"npuurvasya pratipuurvasya
+23:vyaapaara ityatraaha--pratyaa"npuurva"scetyaadi
+24:tailamiti|| adhi"sii"nsthaasaa.m
+25:bruuyaat|| padama~njarii upaanvadhyaa"nvasa.h||
+26:adhi"sii"nsthaasaamityata.h| aadhaaraniv.rtyarthamiti|
+27:ekaajanaa"n.a
+28:a"nvidhaaveve.syate,
+29:.thti"ncodaativati.a
+30:itya"n,
+31:.thpa~ncamyapaa"nparibhi.h.a
+32:itya"npratyaya.h|
+33:praarthanaayaa.m li"n,
+34:garhaarthe li"n|
+35:puurvaacaaryaanurodhena|| padama~njarii ti"nstrii.ni
+36:.thnitya.m "nti.h.a
+37:ti"nstrii.nitrii.ni
+38:ti"n"sabdasya trii.nitrii.niiti
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a2p1.htm#
 1:paraa"nvadbhaavadiinaa.m
 2:paraa"nvatsvare
 3:v.r"scanniti| .thaa"nparayo.h
-4:ti"nntasya sidhdo
-5:ci.no lu"nnyaayena
-6:ka.daaraatpraa"nnirdi.s.taanaa.m samaasasa.mj~naayaa
-7:na bhavati;.thti"n"nti"n.h.a
-8:aahateneti| puurvapadagra"n.namavyayasyopalak.sa.naartham|
-9:vihitaa, etayo"syaivaarthayoraa"n.h
-10:k.rtasti"n"sca|
-11:supetyadhikaaraati"nnte
-12:itsa.mj~naabhaava.h, iyaRuva"nprasa"n"sca|
-13:upapuurvaanmaa"n.h
-14:maa"nsaad.r"syahetuke
+4:na bhavati;.thti"n"nti"n.h.a
+5:aahateneti| puurvapadagra"n.namavyayasyopalak.sa.naartham|
+6:vihitaa, etayo"syaivaarthayoraa"n.h
+7:k.rtasti"n"sca|
+8:itsa.mj~naabhaava.h, iyaRuva"nprasa"n"sca|
+9:upapuurvaanmaa"n.h
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a2p2.htm#
 1:pratipadyate|| upapadamati"n||
 2:|| upapadamati"n||
-3:ti"nntasya prati.sedho.anarthaka
-4:puurvaapariibhuuta.h kriyaaruupasti"nntaarthapradhaano.artho
-5:lu"n.a
-6:ti"nntena
-7:di"nmaatra.m
-8:tatra ti"nntena
-9:ti"nntasya
-10:pratyayaa.h---k.rtasti"n"sca,
-11:tatra subadhikaaraati"nntenaaprasa"nga.h,
-12:ti"nntamiti
-13:ti"nnte
-14:kartavyameva|| di"nnaamaanyantaraale||
-15:|| di"nnaamaanyantaraale||
+3:lu"n.a
+4:pratyayaa.h---k.rtasti"n"sca,
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a2p3.htm#
 1:nirdde"sa.h| aamro"ntaante.sviti|
 2:yujyate|| pa~ncamyapaa"nparibhi.h||
-3:"nsi.mbuddhyo.h.a
-4:sadh«a"n devadatenetyaadaavadik"sabdaarthama~ncuutarapadagraha.na.m
-5:abhaavaat| anyastvaaha---ti"nsamaanaadhikara.ne
-6:ti"nntena yatsamaanaabhidheya.m
-7:caadhikye.api ti"nsaamaanaadhikara.nya.m
-8:sthite yaavati"namutpatirnaasti taavati"nsaamaanaadhikara.nyaabhaavaatprathamaiveti
-9:ti"nvidheraanarthakyam; ti.daadi.su
-10:hi---yadi ti"nsaamaanaadhikara.nya
-11:tata"sca ti"nsaamaanaadhikara.nyaatpraak
-12:nipaatanaadvaa.a"n|
-13:aa"npuurvasya
-14:dvaye pratyayaa.h---k.rtasti"n"sca|
-15:ti"nprayoge
-16:.thi"ndhaaryo.h
+3:sadh«a"n devadatenetyaadaavadik"sabdaarthama~ncuutarapadagraha.na.m
+4:abhaavaat| anyastvaaha---ti"nsamaanaadhikara.ne
+5:ti"nvidheraanarthakyam; ti.daadi.su
+6:nipaatanaadvaa.a"n|
+7:aa"npuurvasya
+8:dvaye pratyayaa.h---k.rtasti"n"sca|
+9:ti"nprayoge
+10:.thi"ndhaaryo.h
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a2p4.htm#
 1:iti lu"n.h
 2:itya"npratyaya.h|
@@ -354,525 +247,387 @@
 6: lu"nsanordhastu||
 7:lii"n||
 8:li"n||
-9:lui"n||
-10:lu"n||
-11:lu"n---iiti
-12:|| i"n"sca||
-13:bhavati| "ntkira.namanarthaka.m
-14:.thcak.si"n.h
-15:khyaa~n.a"nti ityaatmanepada.m
-16:"ntkira.na.m
-17:.thkrii"njiinaa.m
-18:siddham|| cak.si"n.h
-19:|| cak.si"n.h
-20:lu"nmaa
-21:~nya"n.a
-22:.thya"n"scaap.a
-23:bahuvacanaparatvaabhaavaallu"nna syaat|
-24:k"ntiityidhikaaraanna
-25:ya"nlu"nniv.rtyartha
-26:ya"nnuv.rtau
-27:abhuuditi| .thbhuusuvosti"n.a
-28:.thlu"nsanorghasl.r.a, .thgamahan.a
-29:aa"npuurva.h|
-30:vidhiiyamaanatvaallaade"saanaamapavaada.h| tenaamantasyaati"nntatvaaccak.su.h
-31:yaajayaa~ncakaaretyatra .thti"n"nti"n.h.a
-32:ti"nbhaavino
-33:ti"nbhaavii|
-34:puurvasuutre.na lu"nmaabhuuditi|
+9:lu"n||
+10:lu"n---iiti
+11:|| i"n"sca||
+12:bhavati| "ntkira.namanarthaka.m
+13:.thcak.si"n.h
+14:khyaa~n.a"nti ityaatmanepada.m
+15:"ntkira.na.m
+16:.thkrii"njiinaa.m
+17:siddham|| cak.si"n.h
+18:|| cak.si"n.h
+19:~nya"n.a
+20:.thya"n"scaap.a
+21:abhuuditi| .thbhuusuvosti"n.a
+22:.thlu"nsanorghasl.r.a, .thgamahan.a
+23:aa"npuurva.h|
+24:yaajayaa~ncakaaretyatra .thti"n"nti"n.h.a
+25:ti"nbhaavino
+26:ti"nbhaavii|
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a3p1.htm#
-1:kriyaavaacinyaa.h prak.rtesti"nntaaderapyupalak.sa.nametat|
-2:"ncci.a
-3:pidbhakto yaasu"nnudaata.h
-4:li"nbhavatiiti
-5:ya"n"scaapyekaade"se
-6:ya"n.s.taapa.m
-7:ti"nntaadapi
-8:vacanaati"nntaadaprasa"nga.h,
-9:hi ti"nnta.m
-10:vaakya.m syaat----kya"nsalopau
-11: api"sabdenaitaddar"sayati---kya"nvidhau
-12:kya"npavaado.ayam|
-13:kya"npak.se
-14:.the"n.h padaantaadati.a
-15:kya"n pratyaya.h|
-16:kya"nnte dhaataavantarbhaavaatata.h
-17:kya"nektatvaadaa"n.h
-18:ti"nntasya svaaderati"nntaadutarasya
-19:ti"nnta.m
-20:upasargasyaapi .thti"n"nti"n.h.a
-21:tatra kya"npak.se
-22:dda.s.tam---.thkya"nmaanino"sca.a iti|
-23:kya"nntaadaatmanepada.m kya.santaatparasmaipadamiti
-24:aatmanepadapak.se .thkya"nmaanino"sca.a
-25:jaanaati|| namovariva"scitra"n.h
-26:.thtata"scitriiyamaa.no.asau.a iti|| puccchabhaa.n.daciivaraa.n.ni"n||
-27:|| puccchabhaa.n.daciivaraa.n.ni"n||
-28:aa"n.h
-29:aa"nvi"si.s.tasyaiva
-30:ya"n||
-31:ya"n||
-32:tasmaadya"npratyayo
-33:ya"nsyaat,
-34:ya"nntaadaatmanepada.m
-35:"nt,
-36:"ntprityayo
-37:ya"ntyikaaro.atra
-38:katha.m .rteroya"nntaadaatmanepada.m
-39:tathaa hi---.thanudaata"nti.h.a
-40:"ntimaa"srityaatmanepada.m
-41:ca"n"nbhyaamapi
-42:.thanudaata"nti.h.a
-43:ya"n kriyaasamabhihaaramaatraapek.satvaat;
-44:pa"n,
-45:.thaa"n.h
-46:ya"n.a
-47:yathaacaarakyacyaa"n.h prayogo
-48:ka.n.dve .thno"ndhaatvo.h.a
-49:"suu"n.a
-50:caritaartha.h|| .rteriiya"n||
-51:|| .rteriiya"n||
-52:v.rtaaveva.m pa.tha.lte---.th.rte"sccha"n.a
-53:iiya"nvacana.m j~naapak---dhaatuvihitaanaamaayannaadayo
-54:syu.h, tasmaaddate"sccha"ntyaaidi
-55:pa.thaniiyamiti|| kamer.ni"n||
-56:|| kamer.ni"n||
-57:.ni"nntaaddhetuma.n.nic
-58:tadaa .ni"nntasya
-59:v.rddher.ni"nmeva
+1:"ncci.a
+2:li"nbhavatiiti
+3:ya"n"scaapyekaade"se
+4:ya"n.s.taapa.m
+5:vaakya.m syaat----kya"nsalopau
+6: api"sabdenaitaddar"sayati---kya"nvidhau
+7:kya"npavaado.ayam|
+8:kya"npak.se
+9:kya"n pratyaya.h|
+10:kya"nektatvaadaa"n.h
+11:upasargasyaapi .thti"n"nti"n.h.a
+12:tatra kya"npak.se
+13:jaanaati|| namovariva"scitra"n.h
+14:.thtata"scitriiyamaa.no.asau.a iti|| puccchabhaa.n.daciivaraa.n.ni"n||
+15:|| puccchabhaa.n.daciivaraa.n.ni"n||
+16:aa"n.h
+17:aa"nvi"si.s.tasyaiva
+18:ya"n||
+19:ya"n||
+20:tasmaadya"npratyayo
+21:ya"nsyaat,
+22:"nt,
+23:"ntprityayo
+24:ya"ntyikaaro.atra
+25:tathaa hi---.thanudaata"nti.h.a
+26:"ntimaa"srityaatmanepada.m
+27:ca"n"nbhyaamapi
+28:.thanudaata"nti.h.a
+29:ya"n kriyaasamabhihaaramaatraapek.satvaat;
+30:pa"n,
+31:.thaa"n.h
+32:ya"n.a
+33:yathaacaarakyacyaa"n.h prayogo
+34:ka.n.dve .thno"ndhaatvo.h.a
+35:"suu"n.a
+36:caritaartha.h|| .rteriiya"n||
+37:|| .rteriiya"n||
+38:v.rtaaveva.m pa.tha.lte---.th.rte"sccha"n.a
+39:iiya"nvacana.m j~naapak---dhaatuvihitaanaamaayannaadayo
+40:syu.h, tasmaaddate"sccha"ntyaaidi
+41:pa.thaniiyamiti|| kamer.ni"n||
+42:|| kamer.ni"n||
+43:"ntimapek.sya
+44:"ntiiiti
+45:.nii"n v.rddhirnaasti
+46:.ni"nbhaave .nici
+47:igla"n.naa v.rddhirityalamati
+48:li"n,
+49:.thri"n"saya.a
+50:ri"n|
+51:.thca"n.a
+52:lu"n||
+53:ca"n, dhaatvantaraartha
+54:lu"n.a,
+55:.th"nti.h.a
+56:.thla"n "saaka.taayanasyaiva.a
+57:clya"nca"nk.su
+58:ca"nci.nau
+59:ca"nci.nostu
 60:"ntimapek.sya
-61:"ntiiiti
-62:.ni"nntasya
-63:.nii"n v.rddhirnaasti
-64:ya"nntebhyo
-65:.ni"nbhaave .nici
-66:igla"n.naa v.rddhirityalamati
-67:.thsupti"nntam.a ityatraantagraha.naj~naapitaa
-68:.thsa"nntaa"sca.a
-69:vidhiiyate, la"nntasyaanuprayoga.h
-70:li"n,
-71:.thri"n"saya.a
-72:ri"n|
-73:sader.nyantaallui"n ca"nyupadhaayaa
-74:.thca"n.a
-75:lui"n||
-76:lu"n||
-77:ca"n, dhaatvantaraartha
-78:lu"n.a,
-79:.th"nti.h.a
-80:.thla"n "saaka.taayanasyaiva.a
-81:clya"nca"nk.su
-82:ca"nci.nau
-83:ca"nci.nostu
-84:"ntimapek.sya
-85:ti"nntatvaad
-86:li"n,
-87:aatmanepade tva"nbhaavaadaali"ngane.anaali"ngane
-88:praapti.h, "nbaadhanaarthaa
-89:"sli.sa ityetada"nbaadhanaartham|
-90:a"nsicau
-91:ca"n||
-92:ca"n||
-93:.thca"n.a
-94:ityitra .tha"n.a
-95:.thasyativaktikhyaatibhyo.a"n.a
-96:.th.sidbhidaadibhyo.a"n.a atraapi
-97:cai"n dhaatura"nga.m
-98:ca"nnta.m
-99:ca"nmeva "ntimapek.sya
-100:k"ntiiiti
-101:antarbhuutaca"npek.satvaat,
-102:.nyantaatkarma.ni lu"n,
-103:kamer.ni"n vihita.h,
-104:.ni"nntaatu
-105:naastiiti| .ni"npak.se
-106:ca"nparo
-107:ca"n.a
-108:cai"n .thajaaderddhitiiyasya.a
-109:dvirvacanam|| asyativaktikhyaatibhyo.a"n||
-110:|| asyativaktikhyaatibhyo.a"n||
-111:ityaatmanepade.ai"n .thasyatesthuk.a|
-112:"nsau
-113:.thli"nsicaavaatmanepade.su.a
+61:li"n,
+62:aatmanepade tva"nbhaavaadaali"ngane.anaali"ngane
+63:praapti.h, "nbaadhanaarthaa
+64:"sli.sa ityetada"nbaadhanaartham|
+65:ca"n||
+66:ca"n||
+67:.thca"n.a
+68:ityitra .tha"n.a
+69:.thasyativaktikhyaatibhyo.a"n.a
+70:.th.sidbhidaadibhyo.a"n.a atraapi
+71:cai"n dhaatura"nga.m
+72:ca"nmeva "ntimapek.sya
+73:antarbhuutaca"npek.satvaat,
+74:.nyantaatkarma.ni lu"n,
+75:kamer.ni"n vihita.h,
+76:naastiiti| .ni"npak.se
+77:ca"nparo
+78:ca"n.a
+79:cai"n .thajaaderddhitiiyasya.a
+80:dvirvacanam|| asyativaktikhyaatibhyo.a"n||
+81:|| asyativaktikhyaatibhyo.a"n||
+82:ityaatmanepade.ai"n .thasyatesthuk.a|
+83:"nsau
+84:lu"n.a
+85:.thaa"n.h
+86:ida"nhalo.h.a| .th"saasivasighasiinaa~nca.a
+87:ti"n.h,
+88:upalak.sa.nametat, "ntviprati.sedhaartha.h,
+89:na"n.a
+90:li"n,
+91:.thli"n.h
+92:"nti.h.a
+93:li"n|
+94:.thli"nyaa"si.sya"n.a
+95:k.rtamityartha.h|| li"nyaa"si.sya"n||
+96:|| li"nyaa"si.sya"n||
+97:upapuurvaati.s.thateraa"si.si li"n,
+98:.thli"n.h ssalopo.anantyasya.a,
+99:vocemeti| a"n,
+100:.th.rdda"so.a"n.a
+101:praapnoti, tatraaha-----li"nyaa"si.sya"ntyaaidi|
+102:tatraa"npuurvasya
+103:.ni"n-----puccchamudasyati,
+104:li"ntra
+105:ko.si.sii.s.teti| .thli"n.h
+106:vyavaaye ti"n.hsyu.h,
+107:syaat---.thlo.to la"nvat.a.theru.h.a
+108:syaat---.thnitya.m "nti.h.a,.thita"sca.a,.thtasthasthamipaa.m
+109:.thli"n.h
+110:"ncci.a
+111:ya"nvidhau
+112:ya"nvidhau
+113:ya"nvidhau
 114:lu"n.a
-115:.thaa"n.h
-116:ida"nhalo.h.a| .th"saasivasighasiinaa~nca.a
-117:glucirupaadiiyate tasmaada"nsico.h----glucat,
-118:ti"n.h,
-119:upalak.sa.nametat, "ntviprati.sedhaartha.h,
-120:na"n.a
-121:li"n,
-122:.thli"n.h
-123:"nti.h.a
-124:li"n|
-125:.thli"nyaa"si.sya"n.a
-126:k.rtamityartha.h|| li"nyaa"si.sya"n||
-127:|| li"nyaa"si.sya"n||
-128:upapuurvaati.s.thateraa"si.si li"n,
-129:.thli"n.h ssalopo.anantyasya.a,
-130:vocemeti| a"n,
-131:.th.rdda"so.a"n.a
-132:praapnoti, tatraaha-----li"nyaa"si.sya"ntyaaidi|
-133:tatraa"npuurvasya
-134:.ni"n-----puccchamudasyati,
-135:li"ntra
-136:ko.si.sii.s.teti| .thli"n.h
-137:vyavaaye ti"n.hsyu.h,
-138:syaat---.thlo.to la"nvat.a.theru.h.a
-139:syaat---.thnitya.m "nti.h.a,.thita"sca.a,.thtasthasthamipaa.m
-140:.thli"n.h
-141:"ncci.a
-142:ya"nvidhau
-143:ya"nvidhau
-144:ya"nvidhau
-145:lu"n.a
-146:lu"nnti
-147:bhavaan? .thupapadamadi"n.a
-148:iti|| k.rdati"n||
-149:|| k.rdati"n||
-150:ti"nvarjita
-151:ti"ntvena
-152:tyaktasti"ntvena
-153:ti"n.h k.rtsa~nj~na.m
-154:ti"nbhaavino lakaarasyaiva
-155:tu"nmaa
-156:ti"nntasya
-157:.thha"sa"svatorla"n ca.a
-158:.thudiiyaa.m maa"n.h.a
-159:v.r"nstu
-160:ida"nhalo.h.a
-161:.thaa"n.h
-162:v.r"n#e graha.nam| "sa.msiduhiityaadi|
-163:dda.s.tam| aa"npuurvaaditi|
-164:ityaahu.h| sunoterabhisambandhastadaaha---aa"npuurvaatsunoteriti|
-165:li"n|
-166:bhartsane.a,plu"n gatau.a,.thcara
-167:vayohaanau.a,m.r"n praa.natyaage.a,.thk.samuu.s
-168:tathaa ya"nntaanaa.m
-169:gatau.a aa"npuurva.h,
+115:bhavaan? .thupapadamadi"n.a
+116:iti|| k.rdati"n||
+117:|| k.rdati"n||
+118:ti"nvarjita
+119:ti"ntvena
+120:tyaktasti"ntvena
+121:ti"n.h k.rtsa~nj~na.m
+122:ti"nbhaavino lakaarasyaiva
+123:.thha"sa"svatorla"n ca.a
+124:.thudiiyaa.m maa"n.h.a
+125:v.r"nstu
+126:ida"nhalo.h.a
+127:.thaa"n.h
+128:v.r"n#e graha.nam| "sa.msiduhiityaadi|
+129:dda.s.tam| aa"npuurvaaditi|
+130:ityaahu.h| sunoterabhisambandhastadaaha---aa"npuurvaatsunoteriti|
+131:li"n|
+132:bhartsane.a,plu"n gatau.a,.thcara
+133:vayohaanau.a,m.r"n praa.natyaage.a,.thk.samuu.s
+134:gatau.a aa"npuurva.h,
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a3p2.htm#
 1:.thadhi"sii"nsthaasaa.m
-2:.ni"nnta.h,
-3:aa"npuurva.h,
-4:ku"nmalepa
-5:tena juhuvaturityatraanaimitikatvenaantara"ngamapyaatvamak.rtvaa e"nbhaavaadeva
-6:.thsupti"nnta.m
-7:nanu .thvyaa"nparibhyo
-8:bhojane.a ityasmaadaa"npuurvaadavivak.site
-9:sa"njhiliiti
-10:kuryaat|| suyajo"nrvanip||
-11:|| suyajo"nrvanip||
-12:"ntvi.m
-13:"ntiityupidhaalopo
-14:kitva"ntviyorvi"se.so.asti| .rkaaraantagu.naprati.sedhaartha
-15:tatva"ntiityupidhaalopo
-16:l.rditvaada"n|
-17:lu"nla"n vi.saye.api
-18:lu"n vihitastraiva
-19:.thi.no gaalu"n.a,.thgaaitisthaaghupaabhuubhya.h.a
-20:lai"n anvabraviidityudaahari.syate|
-21:anuuvaaceti| puurvavadabhyaasasa.mprasaara.nam| lu"n||
-22:|| lu"n||
-23:la"nprayoge
-24:lu"n vaktavya.h|
-25:la"nniv.rtipara.m
-26:lu"nprayoga.h
-27:tadaa la"npratyaya
-28:evetyartha.h|| anadyatanela"n||
-29:|| anadyatanela"n||
-30:.thili"nsicaavaatmanepade.su.a
-31:la"nntasya
-32:lu"n,
-33:la"nmeva prayuktavaan----aahata
-34:"nti.h.a
-35:ti"nntamaakaa"nk.samiti
-36:adhipuurvaadi"n.h
-37:pacatiruupamityaadau .thti"n"sca.a
-38:satyam; ti"nbhaavino
-39:curaadiraa"npuurva.h| lak.sa.nahetvoriti
-40:vispa.s.taartham|| i"ndhaaryo.h
-41:|| i"ndhaaryo.h
-42:evamaa"npuurve.su
-43:vaaraa.nasii.m pratyaagamana"siilamaahurityartha.h|| jalpabhik.saku.t.talu.n.tav.r"n.h
-44:|| jalpabhik.saku.t.talu.n.tav.r"n.h
-45:praa.nigarbhavimocane.a.th.suu"n praa.niprasave.a
-46:ghuraco "ntvaaitide"senaiva
-47:.thpratyayaantarakara.namaatide"sika.m "ntvimanityam.a
-48:"ntkaaryi
-49:ya"n.h||
-50:de"ndda"nadibhya
-51:tena---taanyevodaahara.naaniiti|| svapit.r.sorniji"n||
-52:ya"n.h||
-53:"nvasa.mj~naayaam||
-54:"nvasa.mj~naayaam||
+2:aa"npuurva.h,
+3:tena juhuvaturityatraanaimitikatvenaantara"ngamapyaatvamak.rtvaa e"nbhaavaadeva
+4:nanu .thvyaa"nparibhyo
+5:bhojane.a ityasmaadaa"npuurvaadavivak.site
+6:sa"njhiliiti
+7:kuryaat|| suyajo"nrvanip||
+8:|| suyajo"nrvanip||
+9:"ntvi.m
+10:"ntiityupidhaalopo
+11:kitva"ntviyorvi"se.so.asti| .rkaaraantagu.naprati.sedhaartha
+12:tatva"ntiityupidhaalopo
+13:l.rditvaada"n|
+14:lu"nla"n vi.saye.api
+15:lu"n vihitastraiva
+16:.thi.no gaalu"n.a,.thgaaitisthaaghupaabhuubhya.h.a
+17:lai"n anvabraviidityudaahari.syate|
+18:anuuvaaceti| puurvavadabhyaasasa.mprasaara.nam| lu"n||
+19:|| lu"n||
+20:la"nprayoge
+21:lu"n vaktavya.h|
+22:lu"nprayoga.h
+23:tadaa la"npratyaya
+24:evetyartha.h|| anadyatanela"n||
+25:|| anadyatanela"n||
+26:lu"n,
+27:"nti.h.a
+28:adhipuurvaadi"n.h
+29:pacatiruupamityaadau .thti"n"sca.a
+30:satyam; ti"nbhaavino
+31:curaadiraa"npuurva.h| lak.sa.nahetvoriti
+32:vispa.s.taartham|| i"ndhaaryo.h
+33:|| i"ndhaaryo.h
+34:evamaa"npuurve.su
+35:vaaraa.nasii.m pratyaagamana"siilamaahurityartha.h|| jalpabhik.saku.t.talu.n.tav.r"n.h
+36:|| jalpabhik.saku.t.talu.n.tav.r"n.h
+37:praa.nigarbhavimocane.a.th.suu"n praa.niprasave.a
+38:ghuraco "ntvaaitide"senaiva
+39:.thpratyayaantarakara.namaatide"sika.m "ntvimanityam.a
+40:de"ndda"nadibhya
+41:tena---taanyevodaahara.naaniiti|| svapit.r.sorniji"n||
+42:"nvasa.mj~naayaam||
+43:"nvasa.mj~naayaam||
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a3p3.htm#
 1:.thkrii"njiinaa.m .nau.a
 2:la"n.a ityatraivaitadvyaakhyaata.m
 3:|| i"n"sca
-4:na"nntaa.h
-5:gamyate, tatkathama"nvi.saye
-6:samajani.sadanipatamanavida.su~n"sii"nbh.r~ni.na.h
-7:.thri"n"sayagli"nk.su.a
-8:tva.ta.lrtyasuur.notiinaamiti ya"nntaat
-9:yak, .thjaagro.avici.n.nal"ntsu.a
-10:cchidetya"nntaa
-11:bhidiccchidiprabh.rtayo.a"n.h
-12:kima"nvidhaanena
-13:aaha---a"nvidhaanasaamarthyaatpak.se .nilopo
-14:aadgu.na.h.a, .the"n.h
-15:lu"n,
-16:"ntvim,
-17:li"n.h
-18:li"n.h
-19:salopa.h, dhaatoriya"n,
-20:aa"sa.msaavacane li"ntyisyaavakaa"sa.h---aa"sa.mse
-21:.thkrii"njiinaa.m
-22:| dadhaateraa"npuurvasya
-23:lu"n,
-24:i"ne la"n,
-25:|| li"nnimite
-26:li"nnimita.m hetuhetumadbhaava.m
-27:iti yadili"nnimitatvaat
-28:l.r"n,
-29:aa"n.h
-30:tatraa"n utaapyorityanena
-31:li"nnimitasyopalak.sa.nam
-32:li"nca.a
-33:li"nnimitaabhaavaadutarasuutraatikrama.h || garhaayaa.m
-34:li"nnimitamastiiti
-35:jaatuyadorli"nvidhaane yadaayadyorupasa"nkhyaanamityanavakl.rptau
-36:ki~ncidruupa.m praa"nnidar"sita.m
-37:li"n yathaa
-38:li"n .thicchaarthe.su
-39:lii"n icchediti
-40:li"nbhihita.m
-41:i"n"scaatraartho
-42:li"n pratipadavidherbaliiyastvaatparatvaacca
+4:gamyate, tatkathama"nvi.saye
+5:samajani.sadanipatamanavida.su~n"sii"nbh.r~ni.na.h
+6:.thri"n"sayagli"nk.su.a
+7:yak, .thjaagro.avici.n.nal"ntsu.a
+8:bhidiccchidiprabh.rtayo.a"n.h
+9:kima"nvidhaanena
+10:aaha---a"nvidhaanasaamarthyaatpak.se .nilopo
+11:lu"n,
+12:"ntvim,
+13:li"n.h
+14:li"n.h
+15:salopa.h, dhaatoriya"n,
+16:aa"sa.msaavacane li"ntyisyaavakaa"sa.h---aa"sa.mse
+17:.thkrii"njiinaa.m
+18:| dadhaateraa"npuurvasya
+19:lu"n,
+20:i"ne la"n,
+21:l.r"n,
+22:aa"n.h
+23:tatraa"n utaapyorityanena
+24:li"nca.a
+25:jaatuyadorli"nvidhaane yadaayadyorupasa"nkhyaanamityanavakl.rptau
+26:li"n yathaa
+27:li"n .thicchaarthe.su
+28:lii"n icchediti
+29:li"nbhihita.m
+30:i"n"scaatraartho
+31:li"n pratipadavidherbaliiyastvaatparatvaacca
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a3p4.htm#
-1:ti"nntavaacyo.artho
-2:sthaanivadbhaavena pitvaan"ntvaabhaavaalluniiihitiitva.m
-3:tadantasya ti"nntataa
-4:.thti"n"nti"n.h.a
-5:.thti"n"nti"n.a
-6:ti"ntva.m ca
-7:lu"n,
-8:ya"nnte.api
-9:ya"nstu
-10:la"n prayukta.h
-11:|| lir"nthe
-12:lir"ntha
-13:tathaapi li"nprayogasiddhaye.ava"sya.m
-14:ato lir"ntha
-15:cak.si"n.h khyaa~n
-16:dvividho lakaara.h---ti"nbhaavii,
-17:ati"nbhaavii
-18:ti"nbhaavanina.h k.rtsa.mj~naani.sedhaat
-19:ati"nbhaavinastu
-20:.thni.s.thaa"sii"n.svidimidik.svididh.r.sa.h.a ityakitvaadgu.no
-21:|| gatyarthaakarmaka"sli.sa"sii"nsthaasavasajanaruhajiiryatibhya"sca
-22:tata.h "sli.sa"sii"nsthaasavasajanaruhajiiryatibhya"sca,
-23:la"nvat.a, .theru.h.a
-24:li"ntyinuvartate, tenekaarasyaatvavidhaane.api
-25:| ti"ntyupilak.sa.nam
-26:ta"ntyipi
-27:tatra "ntvaarthi.h
-28:la"nvat
-29:la"nvatkaarya.m
-30:la"n"sabda.h,
-31:la"nd.r.s.titvaadatidi"syante
-32:.thla"n.h "saaka.taayanasya.a
-33:.thla"n.h "saaka.taayanasya.a
-34:sehir"ncceiti
-35:nanveva.m "ntvaani"ntkaaryi.m
-36:.th"ncci
-37:pitve "ntvimaarabhyamaa.na.m
-38:"ntvaabhaave
-39:.thi"nti"sca.a
-40:la"nvat.a
-41:la"nvat.a
-42:"ntvaabhaave
-43:"nti.h.a
-44:|| li"n.h
-45:|| li"n"sabdo.atra
-46:.thli"n.h
-47:"ncci
-48:li"n.h
-49:ti"nbhaktatvaatadaade.h
-50:.thli"n.h
-51:hyuktam--"ntvi.m
-52:"nnni
-53:praapta.m "ntvimaupade"sikena
-54:.thjaagro.avici.n.nal"ntsu.a
-55:dvitiiya.m pak.samaa"srityaaha---li"nsambandhinostakaarathakaarayoriti
-56:| li"n"sabdena
-57:li"nsa.mbandhinorityatraapi k.r.sii.s.teti
-58:.thli"n.h
-59:prasa"nga ityaaha---"nti
-60:|| la"n.h
-61:l.r"nstu
-62:la"nvat.a ityatra
-63:? .thla"n.h.a
-64:|| ti"n"sitsaarvadhaatukam
-65:ti"n.h
-66:ya"nvidhau yaddhaatugraha.na.m
-67:"se.sagraha.nam---ti"n"sitormaa
-68:.thti"nsitsaarvadhaatukam.a
+1:sthaanivadbhaavena pitvaan"ntvaabhaavaalluniiihitiitva.m
+2:.thti"n"nti"n.h.a
+3:.thti"n"nti"n.a
+4:ti"ntva.m ca
+5:lu"n,
+6:ya"nstu
+7:la"n prayukta.h
+8:|| lir"nthe
+9:lir"ntha
+10:tathaapi li"nprayogasiddhaye.ava"sya.m
+11:ato lir"ntha
+12:cak.si"n.h khyaa~n
+13:dvividho lakaara.h---ti"nbhaavii,
+14:ati"nbhaavii
+15:ti"nbhaavanina.h k.rtsa.mj~naani.sedhaat
+16:ati"nbhaavinastu
+17:.thni.s.thaa"sii"n.svidimidik.svididh.r.sa.h.a ityakitvaadgu.no
+18:|| gatyarthaakarmaka"sli.sa"sii"nsthaasavasajanaruhajiiryatibhya"sca
+19:tata.h "sli.sa"sii"nsthaasavasajanaruhajiiryatibhya"sca,
+20:la"nvat.a, .theru.h.a
+21:li"ntyinuvartate, tenekaarasyaatvavidhaane.api
+22:| ti"ntyupilak.sa.nam
+23:ta"ntyipi
+24:tatra "ntvaarthi.h
+25:la"nvat
+26:la"nvatkaarya.m
+27:la"n"sabda.h,
+28:la"nd.r.s.titvaadatidi"syante
+29:.thla"n.h "saaka.taayanasya.a
+30:.thla"n.h "saaka.taayanasya.a
+31:sehir"ncceiti
+32:nanveva.m "ntvaani"nitkaarya.m
+33:.th"ncci
+34:pitve "ntvimaarabhyamaa.na.m
+35:"ntvaabhaave
+36:.thi"nti"sca.a
+37:la"nvat.a
+38:la"nvat.a
+39:"ntvaabhaave
+40:"nti.h.a
+41:|| li"n.h
+42:|| li"n"sabdo.atra
+43:.thli"n.h
+44:"ncci
+45:li"n.h
+46:ti"nbhaktatvaatadaade.h
+47:.thli"n.h
+48:hyuktam--"ntvi.m
+49:praapta.m "ntvimaupade"sikena
+50:.thjaagro.avici.n.nal"ntsu.a
+51:dvitiiya.m pak.samaa"srityaaha---li"nsambandhinostakaarathakaarayoriti
+52:| li"n"sabdena
+53:li"nsa.mbandhinorityatraapi k.r.sii.s.teti
+54:.thli"n.h
+55:prasa"nga ityaaha---"nti
+56:|| la"n.h
+57:l.r"nstu
+58:la"nvat.a ityatra
+59:? .thla"n.h.a
+60:|| ti"n"sitsaarvadhaatukam
+61:ti"n.h
+62:ya"nvidhau yaddhaatugraha.na.m
+63:"se.sagraha.nam---ti"n"sitormaa
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a4p1.htm#
-1:ti"nntam,
-2:| ti"nntaatarhi
-3:ti"nnte.su
-4:vij~neyam---arthaabhaavaadeva ti"nntaad
-5:ti"nnte.api
-6:ti"nntaanmaa
-7:ti"nnte
-8:ti"nntaani saadhanaa"srayaa.m
-9:caitadeva.m vij~neyam---striitvaabhaavaati"nntaa.t.taabaadayo
-10:ti"nntaanmaa
-11:ti"nnte
-12:j~naapakaati"nntaanna
-13:.thti"n"sca.a
-14:tathaa .thkya"nmaanino"sca.a
-15:.thpu.mso.asu"n.a supa.msiityatraapi
-16:vi"se.sa.h---uu"nntaadvotpatau
-17:| tasmaannaarthastyuu"nergraha.nena || svaujasamii.tccha.s.taabhyaa.mbhisReóbhyaambhyas"nsibhyaambhyas"nsosaam"nyossup
-18:.thana"nsau.a ityatra
-19:ca .thana"nsi.a
-20:.takaara.h .th.taa"nsi"nsaaminaatsyaa.h.a
-21:"nserikaara.h
-22:"nso.a"s.a
-23:.thyi"n"scaap.a iti
-24:ya"n.sya"ne.h saamaanyagraha.naaya
-25:kvanibvanib"nvanipaa.m
-26:ya"n"scaabiti
-27:.sya"n.h samprasaara.navadbhavi.syati,
-28:tadyathaa---.sya"nntasyocyamaana.m
-29:trapaade.h .sitvama"nvidhau
-30:|| .thuudhaso.ana"n.a
-31:.thdhanu.so.ana"n.a
-32:.thuudhaso.ana"n.a
-33:.sitvama"nvidhau caritaarthamiti
-34:lyu"nntaanaa.m
-35:.sya"npraaptau
-36:paribhaa.saaprayojanaani .thupapadamati"n.a
-37:praa"nmukheti
-38:avanti-kunti"sabdaabhyaamapatye.arthe .thv.rddhetkosalaajaadaa~n~nya"n.a
-39:uu"nvidhaanamalaabvaa, karkandhvaa
-40:.thno"ndhaatvo.h.a
-41:~nya"nntaaviti
-42:| .thv.rddhetkosalaajaadaa~n~nya"n.a
-43:~nya"n, .thya"n"scaap.a
-44:ce.s.taayaam.a aa"npuurvaatparyaa"npuurvaacca
-45:|| ya"n"scaap
-46:~nya"n.h
-47:.sya"n"sca
-48:.sya"nstriyaameva
-49:.thv.rddhetkosalaajaadaa~n~nya"n.a
-50:.sya"n.h
-51:.thyi"n.a
-52:yadyevam, gaukaak.siiputra.h---.sya"n.h
-53:saunaagaa.h pa.thanti---.th.sya"n.h
-54:.sya"nntaadapi syaat,
-55:.sya"nnivartate,
-56:.sya"ntyaanupuurvyaatsiddhim
-57:.sya"nnekaaltvaatsarvaade"sa.h
-58:.th"ncci.a ityantyasya
-59:taata"nnyaayena
-60:.th"ncci.a ityetadananyaartha"ntve.svina"nadi.su
-61:.thya"n"scaap.a
-62:k.rte .thkimeti"nvyayaghaad.a
-63:.sya"n,
-64:kartavyau ya"n"scaabiti
-65:.syai"n .th.ti.d.dhaa.na~n.a
-66:.sya"n.h
-67:| .th.sya"n.h
-68:.thya"n.h
-69:.th,.sya"n.h
-70:bruuyaa.h---ya"ndhaatvorna
-71:| .sya"n"siir.saadhiinalaabhastadabhivihataye
-72:taata"n"nvi
-73:ya"n.ni~no.h
-74:.sya"n.h
-75:.thsudhaaturaka"nca.a
-76:.sya"nmutpaadayati
-77:.thlu"nmukhasvaropacaaraa.h.a
-78:.thv.rddhetkosalaajaadaa~n~nya"n.a iti
-79:~nya"nnta.h,
-80:sambhavaat, .th"nmu.nnityam.a
-81:~nya"n.a, karmaara"sabdaatkaarilak.sa.no
+1:.thti"n"sca.a
+2:.thpu.mso.asu"n.a supa.msiityatraapi
+3:| tasmaannaarthastyuu"nergraha.nena || svaujasamii.tccha.s.taabhyaa.mbhisReóbhyaambhyas"nasibhyaambhyas"nsosaam"nyossup
+4:.thana"nsau.a ityatra
+5:"nserikaara.h
+6:"nso.a"s.a
+7:.thyi"n"scaap.a iti
+8:ya"n.sya"ne.h saamaanyagraha.naaya
+9:kvanibvanib"nvanipaa.m
+10:ya"n"scaabiti
+11:trapaade.h .sitvama"nvidhau
+12:|| .thuudhaso.ana"n.a
+13:.thdhanu.so.ana"n.a
+14:.thuudhaso.ana"n.a
+15:.sitvama"nvidhau caritaarthamiti
+16:.sya"npraaptau
+17:paribhaa.saaprayojanaani .thupapadamati"n.a
+18:avanti-kunti"sabdaabhyaamapatye.arthe .thv.rddhetkosalaajaadaa~n~nya"n.a
+19:uu"nvidhaanamalaabvaa, karkandhvaa
+20:.thno"ndhaatvo.h.a
+21:| .thv.rddhetkosalaajaadaa~n~nya"n.a
+22:~nya"n, .thya"n"scaap.a
+23:ce.s.taayaam.a aa"npuurvaatparyaa"npuurvaacca
+24:|| ya"n"scaap
+25:.sya"n"sca
+26:.sya"nstriyaameva
+27:.thv.rddhetkosalaajaadaa~n~nya"n.a
+28:.thyi"n.a
+29:.sya"ntyaanupuurvyaatsiddhim
+30:.th"ncci.a ityantyasya
+31:.th"ncci.a ityetadananyaartha"ntve.svina"nadi.su
+32:.thya"n"scaap.a
+33:k.rte .thkimeti"nvyayaghaad.a
+34:.sya"n,
+35:kartavyau ya"n"scaabiti
+36:.syai"n .th.ti.d.dhaa.na~n.a
+37:bruuyaa.h---ya"ndhaatvorna
+38:| .sya"n"siir.saadhiinalaabhastadabhivihataye
+39:taata"n"nvi
+40:ya"n.ni~no.h
+41:.thsudhaaturaka"nca.a
+42:.thv.rddhetkosalaajaadaa~n~nya"n.a iti
+43:~nya"n.a, karmaara"sabdaatkaarilak.sa.no
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a4p2.htm#
 1:rii"n,
-2:~nya"n.h
-3:~nya"n.h
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a4p3.htm#
-1:tacca ti"nntena
-2:aa"npuurvaatkhyaatermuulavibhujaaditvaatka.h
-3:aa"npuurvasya
-4:.thaa"nparayo.h
+1:aa"npuurvaatkhyaatermuulavibhujaaditvaatka.h
+2:aa"npuurvasya
+3:.thaa"nparayo.h
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a4p4.htm#
-1:ti"nntaanukara.nametat
-2:| ti"nntaarthe
-3:kriyaa pradhaanabhuutetyaakhyaatasti"nnta.h,
-4:.thpa~ncamyapaa"nparibhi.h.a
-5:supti"nntamutarapadasya padatvaavyabhicaaraad,
-6:.thbh.rm.r"sii"n t.rcaritsaritanimimasjibhya
+1:.thpa~ncamyapaa"nparibhi.h.a
+2:.thbh.rm.r"sii"n t.rcaritsaritanimimasjibhya
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a5p1.htm#
 1:uudhaso.ana"n ceti|
 2:puurvaviprati.sedo.asa"nta.h
-3:.thsupti"nnta.m
-4:sa"n"sca samudaayamaatra.m
-5:da"satsa"nsya
-6:.tha"nna.s.takhoreva.a
-7:aa"npuurvasya
-8:madhyaa"nnaadiriti
-9:naa"sa"nniiyam;
+3:sa"n"sca samudaayamaatra.m
+4:da"satsa"nsya
+5:aa"npuurvasya
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a5p2.htm#
-1:ti"nntasya
-2:.the"n.h
-3:yadyapyaa"npuurvaa
-4:|| goraa"npuurvaaditi|
-5:go"sabdaantaadaa"npuurvaatpraatipadikaadityartha.h| aa
-6:.thaa"n maryaadaabhividhyo.h.a
-7:ti"nntena
-8:g.rhyate, tirya"nmaanameva
-9:tirya"nmaane
-10:.sa"nbhirasau ruupairg.rh.naati,
-11:.thti"n"nti"n.h.a
-12:tathaa--vaa"nbhayam,
-13:tva"nbhayamiti
+1:yadyapyaa"npuurvaa
+2:|| goraa"npuurvaaditi|
+3:go"sabdaantaadaa"npuurvaatpraatipadikaadityartha.h| aa
+4:.thaa"n maryaadaabhividhyo.h.a
+5:.sa"nbhirasau ruupairg.rh.naati,
+6:.thti"n"nti"n.h.a
+7:tathaa--vaa"nbhayam,
+8:tva"nbhayamiti
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a5p3.htm#
 1:satyam; supti"nstu
 2:.thti"nstrii.nitrii.ni.a ityatra
-3:tatra, .th"nsi.dyo.h
-4:yadantaraalamiti .thdi"nnaamaanyantaraale.a
-5:ti"nntaadapi
-6:ti"nntena
-7:manyate ||  ti"n"sca
-8:.thkimeti"nvyaya.a
-9:.thti"n"sca.a
-10:li"n,
-11:p.r.s.tasti"nntenaaca.s.te,
-12:ti"nnto paataarthaapek.sa.m
-13:ti"nnte
-14:ti"nntamapi kaalatravi.saya.m
-15:ti"nnte.su
-16:.thti"nsca.a ityadhikaaraatkalpabaadivadbahujapi
-17:ti"nntasyaapi
-18:atraapi ti"nniv.rtyartham
-19:|| ti"nntaadaya.m
-20:? tatraaha--ti"n"scetyanuv.rtamiti|
-21:aa"npuurvaadi.no
+3:manyate ||  ti"n"sca
+4:.thkimeti"nvyaya.a
+5:.thti"n"sca.a
+6:li"n,
+7:.thti"nsca.a ityadhikaaraatkalpabaadivadbahujapi
+8:? tatraaha--ti"n"scetyanuv.rtamiti|
+9:aa"npuurvaadi.no
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a5p4.htm#
 1:iti| a"snoteraa"npuurvaadaa"sita.h
 2:.thkimeti"nvyayaghaadaamu.a
 3:||  kimeti"nvyaghaadaamvadravyaprakar.se
 4:"ntvaabaavaadiitvaanupipaterjihaateriti
-5:ti"nnta.m pa.tha.lte,
-6:sthite .thti"n"nti"n.h.a
-7:bhaava.h ||  acaturavicaturasucaturastriipu.msadhenvana.duharksaamavaa"nmanasaak.sibhruvadaaragavorva.s.thiivapada.s.thiivanakta.mdivaraatri.mdivaahardivasarajasani"sreyasapuru.saayu.sadvyaayu.satryaayu.sargyaju.sajaatok.samahok.sav.rddok.sopa"sunago.s.tha"svaa.h
-8:vij~naayate .thuudhaso.ana"n.a
-9:ityaa"npuurvaaddhantaresipratyaya.h, dhaatuupasargayo"scehaade"sa.h,
-10:|| "ntkira.naadantyaade"satvam,
-11: ana"nvidhaanamutaraartham,
+5:sthite .thti"n"nti"n.h.a
+6:vij~naayate .thuudhaso.ana"n.a
+7:ityaa"npuurvaaddhantaresipratyaya.h, dhaatuupasargayo"scehaade"sa.h,
+8:|| "ntkira.naadantyaade"satvam,
+9: ana"nvidhaanamutaraartham,
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a6p1.htm#
 1:yi"ntyisya
 2:tva"ntyisyeti "sabdaantarapraaptyaa.anityam,
@@ -882,398 +637,304 @@
 6:hnu"n apanayane.a
 7:.thaa"n.h
 8:hnu"n#e.api "ntvaatpirasmaipadaasambhava.h|
-9:.tha"nnvi"ne.h.a
-10:ya"n.h,
-11:||  .sya"n.h
-12:.sya"nvidhaavaade"sapak.sasya
-13:.sya"ntyirtha.h| pratyayapak.sa
-14:pratyagraha.naparibhaa.sayaa samudaayasyaa.sya"nntatve.api
-15:yo.atra.sya"nntastasya
-16:putrapatyo.h .sya"nntasya
-17:.sya"nntasya
-18:pya"nnto.avayavastasyaiva
-19:.sya"nntasya putrapatyo"sca
-20:.sya"nntasya
-21:.sya"nnta.m na
-22:.sya"nnta.m
-23:i"ntvaabhaavaaddhaato.h samprasaara.naabhaava.h| .thv.r"scatip.rcacatibh.rjjatiinaamavise.sa.h.a
-24:ityaadisuutraan"ntiityinuvarti.syate,
-25:caanya.h svaaper"ndisti,
-26:tatraaha--"ntiiiti kevalamityaadi|
-27:"ndgriha.nam?
-28:"ndgriha.namapi tarhi
-29:.thsvapit.r.sornaji"n.a
-30:katha.m punarya"ncyamaana
-31:ca"npare
-32:sa.m"sca"npare hverabhyastakaara.nasya
-33:.thti"n"nti"n.h.a
-34:krii"njiinaa.m
-35:syaat--krii"njiinaa.m
-36:||  krii"njiinaa.m
-37:.thlii"n.h.a
-38:.thkrii"njiinaa.m
-39:itii"nvikalpyate,
-40:"n"syo.h.a
-41:aaè"n.h
-42:smi"nsviditi|
-43:sthaanivadbaavaaduva"n karamaanna
-44:k"ntiiiti naanuvartayanti-dediviti
-45:"nbhaaporeva
-46:.the"n.h
-47:"nsimbuddhayo.h.a
-48:||  e"nhrasvaatsambuddhe.h
-49:e"nhrasvaabhyaa.m
-50:sambuddhireva vi"se.sa.niiyaa--e"nntaad
-51:yadye"nhrasvaabhyaa.m sambuddhirvi"se.syeta,
-52:vi"se.syeta--e"nntaad
-53:e"nhrasvaabhyaa.m
-54:matvaa.a.aha--e"nntaatpraatipadikaadityaadi| sambuddhyaak.siptapratipadikame"nhrasvaabhyaa.m
-55:praatipadikame"nhrasvaabhyaa.m
-56:e"nntaastadarthamapye"ngraha.na.m kartavyamiti|
-57:madhucchaadayatiiti .thti"n"nti"n.h.a
-58:evaati"n;
-59:? .th"sii"n.h
-60:||  aa"nmaaho"sca
-61:|| aa"nbhaa.dor"nidvi"s.s.tayorupaadaane
-62:"nti
-63:karmapravacaniiyasa.mj~naa, .thpa~ncamyapaa"nparibhi.h.a
-64:.thaa"n maryaadaabhividhyo.h.a
-65:vaa.a itya"n| aachaayaa,
-66:.thvaakyasmara.nayorai"nt.a| prameti|
-67:pramuurvaanmaa"n.h
-68:itya"n,
-69:atra dhaator"ntve.aipi
-70:"nt,
-71:ya"n,
-72:la"n|
-73:.the"n.h
-74:.theteli"n.a
-75:.thti"nnta.m
-76:clera"n,
-77:e"n.h
-78:.th.taa"nsi"nsaaminaatsyaa.h.a
-79:apaceccchatramiti| pacerla"n,
-80:"n.tostu
-81:bhraat.r"sabdaan"nsi
-82:v.rk.sa"sabdaan"n.h,
-83:la"n,
-84:aa"nnaa"nerekaade"sa
-85:bhiderli"n,
-86:.thli"n.h salopo.anantyasya.a
-87:lu"n,
-88:la"n,
-89:aaè"n.h
-90:"nsirvanaamasthaanayo.h.a
-91:||  "nsi"nso"sca
-92:"nsi"nsau,
-93:"nsi"nsaavapi
-94:"nsi"nso.h
-95:"nsi"nso.h k.rtayo.h
-96:.the"n.h.a
-97:parapuurvatvaade.h kaaryasyai"n,
-98:kaaryamue"n|
-99:.the"n.h
-100:tenai"n.h sa.mhitaadhikaare
-101:ityaadau .th"nsi"nso"sca.a
-102:averaa"si.si li"n|
-103:v.r"nv.r~no.h
-104:.the"n.a
-105:.the"n.h padaantaat.a
-106:iva"nsvara
-107:syaat--.sya"n.h
-108:tadar"sasyoktatvaatadaryav.rtiraa"nnarthaka.h; anurthaantaravaacitvaat|
-109:"ntvim,
-110:"nti.m
-111:vidyaadvaakyasmara.nayora"nt.a
-112:.thvaakyasmara.nayora"nt.a
-113:"ndveiditavya.h--eva.m
-114:li"n, aatmanepadam,
-115:aa"npuurvaatpade.h
-116:li"n|
-117:su"nvikalpa.h
-118:ityaana"n|
-119:ajerlo.t, .thti"n"nti"n.h.a
-120:maa"n.h prayogo.a.daagamaniv.rtyartha.h,
-121:nakaara.h ||  no"ndhaatvo.h
-122:hi--uu"ndhaatuya.na.h
-123:ityana"n,
-124:|| taasyanudaaten"ndidupade"saallasaarvadhaatukamanudaatamahnvi"ne.h
-125:eveti| .thudiicaamaa"n.h.aiti k.rtaatvanirdde"saajjhaapakaadanumiiyate---kaarye.svanubandhaa.h
-126:li"n| a"ngasya
-127:.thaato "nti.h.a
-128:"snurapi "ndevi
-129:aaha--"ndiya.m
-130:"nti.h.a
-131:ityatra "nti
-132:sambhadhyate--"ndupide"saat, adupade"saaditi|
-133:maa"n"sca
-134:ti"nnta.m
-135:halyagho.h.a, "ntvaallisaarvadhaatukaanudaatatvam|
-136:ca"nntasya|
-137:.th.sa"nbhyo
-138:aa"npuurvaadavivak.site
-139:tarhyaa"npuurvakasyaa"seraa"sita
-140:"nso.as.a,
-141:"nsi.a
-142:.thyu.smadasmadorReó"nso.h.a ityevocyeta,
-143:.thv.r"nsambhaktau.a,
+9:.sya"nvidhaavaade"sapak.sasya
+10:.sya"ntyirtha.h| pratyayapak.sa
+11:i"ntvaabhaavaaddhaato.h samprasaara.naabhaava.h| .thv.r"scatip.rcacatibh.rjjatiinaamavise.sa.h.a
+12:ityaadisuutraan"ntiityinuvarti.syate,
+13:caanya.h svaaper"ndisti,
+14:tatraaha--"ntiiiti kevalamityaadi|
+15:"ndgriha.nam?
+16:"ndgriha.namapi tarhi
+17:.thsvapit.r.sornaji"n.a
+18:katha.m punarya"ncyamaana
+19:ca"npare
+20:sa.m"sca"npare hverabhyastakaara.nasya
+21:.thti"n"nti"n.h.a
+22:krii"njiinaa.m
+23:syaat--krii"njiinaa.m
+24:||  krii"njiinaa.m
+25:.thlii"n.h.a
+26:.thkrii"njiinaa.m
+27:itii"nvikalpyate,
+28:aaè"n.h
+29:smi"nsviditi|
+30:sthaanivadbaavaaduva"n karamaanna
+31:"nbhaaporeva
+32:||  e"nhrasvaatsambuddhe.h
+33:e"nhrasvaabhyaa.m
+34:yadye"nhrasvaabhyaa.m sambuddhirvi"se.syeta,
+35:e"nhrasvaabhyaa.m
+36:matvaa.a.aha--e"nntaatpraatipadikaadityaadi| sambuddhyaak.siptapratipadikame"nhrasvaabhyaa.m
+37:praatipadikame"nhrasvaabhyaa.m
+38:madhucchaadayatiiti .thti"n"nti"n.h.a
+39:evaati"n;
+40:? .th"sii"n.h
+41:|| aa"nbhaa.dor"nidvi"s.s.tayorupaadaane
+42:"nti
+43:karmapravacaniiyasa.mj~naa, .thpa~ncamyapaa"nparibhi.h.a
+44:.thaa"n maryaadaabhividhyo.h.a
+45:vaa.a itya"n| aachaayaa,
+46:.thvaakyasmara.nayorai"nt.a| prameti|
+47:pramuurvaanmaa"n.h
+48:itya"n,
+49:atra dhaator"ntve.aipi
+50:"nt,
+51:ya"n,
+52:la"n|
+53:.theteli"n.a
+54:clera"n,
+55:apaceccchatramiti| pacerla"n,
+56:"n.tostu
+57:v.rk.sa"sabdaan"n.h,
+58:la"n,
+59:bhiderli"n,
+60:.thli"n.h salopo.anantyasya.a
+61:lu"n,
+62:la"n,
+63:aaè"n.h
+64:||  "nasi"nso"sca
+65:"nasi"nsau,
+66:"nasi"nso.h
+67:"nasi"nso.h k.rtayo.h
+68:parapuurvatvaade.h kaaryasyai"n,
+69:kaaryamue"n|
+70:tenai"n.h sa.mhitaadhikaare
+71:ityaadau .th"nasi"nso"sca.a
+72:averaa"si.si li"n|
+73:v.r"nv.r~no.h
+74:.the"n.a
+75:iva"nsvara
+76:"ntvim,
+77:"nti.m
+78:vidyaadvaakyasmara.nayora"nt.a
+79:.thvaakyasmara.nayora"nt.a
+80:"ndveiditavya.h--eva.m
+81:li"n, aatmanepadam,
+82:aa"npuurvaatpade.h
+83:li"n|
+84:su"nvikalpa.h
+85:ityaana"n|
+86:ajerlo.t, .thti"n"nti"n.h.a
+87:maa"n.h prayogo.a.daagamaniv.rtyartha.h,
+88:nakaara.h ||  no"ndhaatvo.h
+89:hi--uu"ndhaatuya.na.h
+90:ityana"n,
+91:|| taasyanudaaten"ndidupade"saallasaarvadhaatukamanudaatamahnvi"ne.h
+92:eveti| .thudiicaamaa"n.h.aiti k.rtaatvanirdde"saajjhaapakaadanumiiyate---kaarye.svanubandhaa.h
+93:li"n| a"ngasya
+94:.thaato "nti.h.a
+95:"snurapi "ndevi
+96:aaha--"ndiya.m
+97:"nti.h.a
+98:ityatra "nti
+99:sambhadhyate--"ndupide"saat, adupade"saaditi|
+100:maa"n"sca
+101:halyagho.h.a, "ntvaallisaarvadhaatukaanudaatatvam|
+102:.th.sa"nbhyo
+103:aa"npuurvaadavivak.site
+104:tarhyaa"npuurvakasyaa"seraa"sita
+105:"nso.as.a,
+106:.thyu.smadasmadorReó"nso.h.a ityevocyeta,
+107:.thv.r"nsambhaktau.a,
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a6p2.htm#
 1:aa"npuurvaabhyaa.m
 2:pa~ncamyagaa"nparibhi.h
 3:.sidbhidaadibhyo.a"n,
 4:bhujim.r"nbhyaa.m
-5:maa"nmaane ityasmaadasipratyayo
-6:aa"npuurvaaddhano .dipratyaya.h,
-7:aa"n"sca
-8:k.rtasti"n"sca,
-9:ti"nnte puurvapadasyaasambhavaatk.rdantaadeva
-10:yadi syaad,adhya"ntyitraapya.anenaiva
-11:-paraa"n,
-12:di"nmaatra.m
-13:ityatrobhayaprasa"n#e
-14:svaa"nvaa
-15:aa"npuurvaat
-16:iti samaasaprati.sedhaprasa"n"sca
-17:ti"n"sca,
-18:ti"nnte samaasaabhaavaatk.rdantameva
-19:tatasti"n, tasyaamapyavasthaayaa.m
-20:kimeti"nvyayadhaat
-21:bhujim.r"nbhyaa.m
-22:pratya"ntyitra
-23:i"n"sca
-24:draateraa"npuurvaad aata"scopasarge
-25:itya"n,
+5:aa"npuurvaaddhano .dipratyaya.h,
+6:aa"n"sca
+7:k.rtasti"n"sca,
+8:yadi syaad,adhya"ntyitraapya.anenaiva
+9:-paraa"n,
+10:ityatrobhayaprasa"n#e
+11:svaa"nvaa
+12:aa"npuurvaat
+13:iti samaasaprati.sedhaprasa"n"sca
+14:ti"n"sca,
+15:tatasti"n, tasyaamapyavasthaayaa.m
+16:kimeti"nvyayadhaat
+17:bhujim.r"nbhyaa.m
+18:pratya"ntyitra
+19:i"n"sca
+20:draateraa"npuurvaad aata"scopasarge
+21:itya"n,
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a6p3.htm#
 1:pragaana"n.h
 2:svaa"n#e
 3:kimeti"nvyayaghaat
 4:"ncci ityantyaade"saartha.h
-5:aana"nmiitva.m
-6:anyatraana"n.h
-7:tvanuu"ntyinena
-8:paurvaaparyamanuu"n.h,
-9:apratyayatveno"nsaad.r"syaabhaavaacca
-10:striili"nsya svarga
-11:uu"nsad.r"sasya .taabaadergraha.naadai.davi.dav.rndaariketyaadau
-12:uu"nntasya
-13:bhaa.sitapuskaadanuu"ntyaaidi
-14:u"nna
-15: euu"nntasya
-16:caartho.anuu"ntyisya tatraanuv.rterlabhyate
-17: ekya"nmaanino"sca
-18:"np,
-19:aana"nprakara.na
-20:.sya"n.h
-21:"nsirvanaamasthaanayo.h
-22:tva"nmanya
-23:"nmu.t
-24:vopati.s.theteti, ii.satirtha"ntyirtha.h
-25:i"n"syo.h ityallopavikalpa.h
-26:ti"nntasya
-27:lopasya k"njjhilnimitakatvaat
-28:"ntvipak.se
-29:la"nvat
-30:"ntvi.m
-31:atra pitvaan"ntvi.m
-32: edvyaco.atasti"n.h
+5:anyatraana"n.h
+6:tvanuu"ntyinena
+7:paurvaaparyamanuu"n.h,
+8:striili"nsya svarga
+9:uu"nsad.r"sasya .taabaadergraha.naadai.davi.dav.rndaariketyaadau
+10:bhaa.sitapuskaadanuu"ntyaaidi
+11:caartho.anuu"ntyisya tatraanuv.rterlabhyate
+12:"np,
+13:aana"nprakara.na
+14:vopati.s.theteti, ii.satirtha"ntyirtha.h
+15:lopasya k"njjhilnimitakatvaat
+16:"ntvipak.se
+17:la"nvat
+18:"ntvi.m
+19:atra pitvaan"ntvi.m
+20: edvyaco.atasti"n.h
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a6p4.htm#
 1:| sansamprasaara.nadiirghatvaitvataata"nyi"nva"nnu.thrasvatvatve caa"ngasyetyadhikaare
 2:ida"nhalo.h ityaadaavapiityaa"sa"nkaayaamaaha
 3:yu.smadasmadbhyaa.m "nso.a"s
 4:nu"nvidhau bhuutapuurvagatistadaa
-5:"n"syo.h
-6:"n"syo.h
-7:kyai"n ak.rtsaarvadhaatukayo.h
-8:"ntvim
-9:i"n"sca
-10:i"n"sca
-11:i"n"scaika
-12:"ntkira.naat
-13:"ntvi.m
-14:tasmaat k"ntiityitraanuvartayitavyamiti
-15:| k"ntiityaasyaaninuv.rtatvaat
-16:uu"nvalopasya
-17:bhidarya"nntaad
-18:aar"ntha
-19:aar"ntha
-20:uva"nniravakaa"se
-21:"nsi"nso"sca
-22:babhuuvaturityaadaavuvai"n k.rti
-23:ca "nidityadhikaaraatkitva"ntviyorubhayorapi
-24:maryaadaarthe.apyaai"n bhaadhikaare.apyasyopasthaana.m
-25:k"ntiiiti
-26:pitavaada"ntve.aipi "snamameva
-27:"ntimaa"sritya
-28:"ntvaat
-29:k"ntveni vi.se.sayi.syaama.h
-30:na"n,
-31:k"nnnaacceccaathi
-32:ya"n,
-33:tena guruma"ntveti
-34:ma"ntvaa,
-35:ida"nhalo.h
-36:k"ntiiiti
-37:a"nvidhau
-38:ihaapya"nsa.msargaadvi"si.s.tasya "saasergraha.na.m
-39: etasmaada"nhalordvayorapyupaadaane
-40:k"ntiityinena sambaddham,
-41:k"ntiityipi
-42:vacanaatpitvapak.se "ntivaabhaavaacchaabhaavo
-43:k"ntiiiti,
-44:elii"n, vaanyasya
-45:pratyayalak.sa.naarthamiya"ntha
+5:kyai"n ak.rtsaarvadhaatukayo.h
+6:"ntvim
+7:i"n"sca
+8:i"n"sca
+9:i"n"scaika
+10:"ntkira.naat
+11:"ntvi.m
+12:uu"nvalopasya
+13:aar"ntha
+14:aar"ntha
+15:"nasi"nso"sca
+16:babhuuvaturityaadaavuvai"n k.rti
+17:ca "nidityadhikaaraatkitva"ntviyorubhayorapi
+18:maryaadaarthe.apyaai"n bhaadhikaare.apyasyopasthaana.m
+19:pitavaada"ntve.aipi "snamameva
+20:"ntimaa"sritya
+21:"ntvaat
+22:k"ntveni vi.se.sayi.syaama.h
+23:na"n,
+24:ya"n,
+25:tena guruma"ntveti
+26:ma"ntvaa,
+27:ida"nhalo.h
+28:a"nvidhau
+29:ihaapya"nsa.msargaadvi"si.s.tasya "saasergraha.na.m
+30: etasmaada"nhalordvayorapyupaadaane
+31:vacanaatpitvapak.se "ntivaabhaavaacchaabhaavo
+32:elii"n, vaanyasya
+33:pratyayalak.sa.naarthamiya"ntha
+34:lu"n,
+35:tasmaatsa"n"nghaatasya
+36:krii"njiinaa.m
+37:dii"n.h ityanubandhanirdde"so
+38:"ndaardhidhaatukeajaadereva
+39:k"ntvaasimbhaavat, aardhadhaatukatvaad,
+40:tato.ark"nthimanajaadyartha.m
+41:k"nteiti
+42:k"ntaa
+43:ki"ntaa samuccaya.h,
+44:k"ntaa
+45:li"n, utamaikavacanami.ta,
 46:lu"n,
-47:tasmaatsa"n"nghaatasya
-48:krii"njiinaa.m
-49:dii"n.h ityanubandhanirdde"so
-50:"ndaardhidhaatukeajaadereva
-51:k"ntvaasimbhaavat, aardhadhaatukatvaad,
-52:tato.ark"nthimanajaadyartha.m
-53:k"nteiti
-54:k"ntaa
-55:ki"ntaa samuccaya.h,
-56:k"ntaa
-57:li"n, utamaikavacanami.ta,
-58:lu"n,
-59:svaperla"n,
-60:karma.ni lu"n,
-61:iya"nbhyaamiti
-62:vak.syati, tatkathamiya"nvi.saye
-63:iya"nbaadhanaartho
-64:ca dhaatoriya"n.h
-65:cova"n.h
-66:k"ntiityinuvarti.syate,
-67:taccaak"ntiityucyimaane
-68:"samerya"n,
-69:| ya"n.nyante
-70:lu"nsanorghasl.r
-71:la"nvat
-72: ea"nti"sca
-73:k"ntsaarvidhaatukameveti
-74:k"ntiityisya
-75:"nmu.ta.s.tatvam
-76:pipa.thi.sati k"ntiiiti
-77:lai"n iti
-78:tiReótyaa"n.h
-79:k"ntiityetitu
-80:i"n"syo.h
-81:ityu"n,
-82:iyaRuva"nbhyaamiti
-83:i"nvi.damaaca.s.te
-84:atra k"ntiiiti
-85:itya.n, suyajor"nvanip,
+47:svaperla"n,
+48:karma.ni lu"n,
+49:iya"nbhyaamiti
+50:vak.syati, tatkathamiya"nvi.saye
+51:iya"nbaadhanaartho
+52:cova"n.h
+53:"samerya"n,
+54:| ya"n.nyante
+55:lu"nsanorghasl.r
+56:la"nvat
+57: ea"nti"sca
+58:k"ntsaarvidhaatukameveti
+59:lai"n iti
+60:tiReótyaa"n.h
+61:ityu"n,
+62:iyaRuva"nbhyaamiti
+63:i"nvi.damaaca.s.te
+64:itya.n, suyajor"nvanip,
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a7p1.htm#
 1:bhujim.r"nbhya.m
 2:| "sii"n.h
-3: e.taa"nsi"nsaaminaatsyaa.h
-4:ca .taa"nsyorevaajaaditvaatpraaginaadaade"saabhyaa.m
-5:"nsi"nyoryena
-6:jasi"nsi"niinaa.m
-7:aaè"n aapa.h,
-8:aaè"n.h
-9:"ntkaayi.m
-10:"ntvi
-11:"ntiiiti
-12:"n"scaasavicceti,
-13:taavan"ntvimabhyupetya
-14:"ntvimeva
-15:"ntve.apyido.sa
-16:| "ntve
-17:"ntvisyaivaabhaavaadityartha.h, puurve.na
-18:"nso.a"s
-19:pada"sabdena supti"nntamucyate,
-20:tadvadatraapi "nso.a"seva
-21:ti"nprathamayostu
-22:- aa"npra"sli.s.taakaara
-23:"ntkira.namityaadi
-24:sarvaade"satve.api "ntvisya
-25:te.svananyaartha"ntve.su
-26:i"ncci ityetat
-27:"ncci ityetadvaadhitvaa
-28:"ncci
-29:"ntvaaccaasyeiti
-30:"ncci
-31:i"ntvimityaadi
-32:taatai"n vyavasthita.m
+3:ca .taa"nsyorevaajaaditvaatpraaginaadaade"saabhyaa.m
+4:aaè"n aapa.h,
+5:aaè"n.h
+6:"ntkaayi.m
+7:"ntvi
+8:"ntiiiti
+9:"n"scaasavicceti,
+10:taavan"ntvimabhyupetya
+11:"ntvimeva
+12:"ntve.apyido.sa
+13:| "ntve
+14:"ntvisyaivaabhaavaadityartha.h, puurve.na
+15:"nso.a"s
+16:tadvadatraapi "nso.a"seva
+17:ti"nprathamayostu
+18:- aa"npra"sli.s.taakaara
+19:"ntkira.namityaadi
+20:sarvaade"satve.api "ntvisya
+21:te.svananyaartha"ntve.su
+22:i"ncci ityetat
+23:"ncci ityetadvaadhitvaa
+24:"ncci
+25:"ntvaaccaasyeiti
+26:"ncci
+27:i"ntvimityaadi
+28:taatai"n vyavasthita.m
+29:"ntvi.m
+30:li"n, gu.nav.rddhiprati.sedhak.rddhavitumarhati
+31:antyavidhi"scet, antyavidhihetutvaadantyavidhir"ntvim
+32:"ntvimityartha.h
 33:"ntvi.m
-34:li"n, gu.nav.rddhiprati.sedhak.rddhavitumarhati
-35:antyavidhi"scet, antyavidhihetutvaadantyavidhir"ntvim
-36:"ntvimityartha.h
-37:"ntvi.m
-38:"ntkira.na.m
-39:"ntvisyopapadyata
-40:gu.nav.rddhiprati.sedhaartha"scaastu "ntkira.nasaamarthyaadityaa"sa"nkya
-41:"ntvisaamarthyaaditi
-42:| "ntvisaamarthyaatkilaayamaantyavidhi.h
-43:"ntvisaamarthyaabhaava.h,
-44:"nsimbuddhyo.h
-45:"nsimbuddhyo.h
-46:itya"n, anu.s.thaanamanu.s.thaa,
-47:i"ntve vidyaadvar.nanirdde"samaatra.m
-48:"ntkira.nasaamarthyaatu
-49:hanterlu"n,
-50:sati "ntvaabhaavaad
-51:"ns
-52:Reóraamnadyaamniibhya.h, kimeti"nvyayadhaadaamvadravyaprakar.se,
-53:kimeti"nvyayaghaadaamu
-54:"ntimapek.sya
-55:yu"n,
-56:iti a.tkupvaa"nnumvyavaaye.api
-57:"nsimbuddhyoriti
-58:"n"syo.h
-59:anai"n k.rte
-60:aaè"n.h
-61:ityau"n.h
-62:iid.r"ntyaadiu
-63:samaasaantodaatatvamasui"n k.rte.anantyatvaannivarti.syate,
-64:asu"n"scaantyatvaatpravarti.syate
-65:pak.se.anaa"n.syite iti,
-66:pak.se.ana"n.syite
-67:"nsirvanaamasthaanayo.h, ura.n
-68:kart.r"sabde "nsimbuddhyord.r.s.tasya
-69:rephaantam, "nsi"nsorukaaraantam,
+34:"ntkira.na.m
+35:"ntvisyopapadyata
+36:gu.nav.rddhiprati.sedhaartha"scaastu "ntkira.nasaamarthyaadityaa"sa"nkya
+37:"ntvisaamarthyaaditi
+38:| "ntvisaamarthyaatkilaayamaantyavidhi.h
+39:"ntvisaamarthyaabhaava.h,
+40:itya"n, anu.s.thaanamanu.s.thaa,
+41:i"ntve vidyaadvar.nanirdde"samaatra.m
+42:"ntkira.nasaamarthyaatu
+43:hanterlu"n,
+44:sati "ntvaabhaavaad
+45:"ns
+46:Reóraamnadyaamniibhya.h, kimeti"nvyayadhaadaamvadravyaprakar.se,
+47:kimeti"nvyayaghaadaamu
+48:"ntimapek.sya
+49:yu"n,
+50:anai"n k.rte
+51:aaè"n.h
+52:iid.r"ntyaadiu
+53:samaasaantodaatatvamasui"n k.rte.anantyatvaannivarti.syate,
+54:asu"n"scaantyatvaatpravarti.syate
+55:pak.se.anaa"n.syite iti,
+56:pak.se.ana"n.syite
+57:rephaantam, "nasi"nsorukaaraantam,
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a7p2.htm#
-1:tathova"nmapi
-2:lui"n acecaayiidityaadau
-3:maa"n.h
-4:vaherlu"n,
-5:ca"n.h
-6:ku.taaditvaan"ntve
-7:sanii"nvikalpa.h
-8:| v.r"nv.r~nbhyaamanye.anudaatopade"saaste.saa.m
-9:v.r"nv.r~nostu
-10:li"n.h salopo.anantayasya
-11:pari"sabdasya ti"nnte.antarbhavaat
-12:ti"n.dati"n.h
-13:aa"npuurvasyetyaadi
-14:nipaatanasyaavakaa"so.anaa"npuurvatve
-15:- aa"npuurvatve
-16:aa"npuurvatve
-17: eaardhadhaatukasye"nvalaade.h
-18:tane"nva"si
-19:li"n,
-20:ya"nntaat.rcyallopayalopayo.h
-21:v.r"nv.r~no.h
-22: eli"nsicoraatmanepade.su
-23:li"n.h,
-24:| li"nsicorniv.rtyarthamiti
-25:ei"n pararupam
-26:v.r"nv.r~naavudaatau
-27:tatraapi v.r"nsthal
-28:vyaa"nparibhyo
-29:samudaa"nbhyo
-30: esmipuu"nra~njva"saa.m
-31:k.rg.rd.r"ndh.r"np.rccchataya.h
-32: eli"n.h
-33:"nti.h
-34:"nti.h
-35:saarvadhaatukasya "ntvim,
-36:"ntvim
-37:"nseradaade"sa.h
-38:ana"nsau,
-39:"nsirvanaamasthaanoyo.h
-40:.rto "nsirvanaamasthaanayo.h
-41:.taa"nsi"nsaaminaatsyaa.h,
+1:maa"n.h
+2:vaherlu"n,
+3:ca"n.h
+4:ku.taaditvaan"ntve
+5:sanii"nvikalpa.h
+6:| v.r"nv.r~nbhyaamanye.anudaatopade"saaste.saa.m
+7:v.r"nv.r~nostu
+8:li"n.h salopo.anantayasya
+9:ti"n.dati"n.h
+10:aa"npuurvasyetyaadi
+11:nipaatanasyaavakaa"so.anaa"npuurvatve
+12:- aa"npuurvatve
+13:aa"npuurvatve
+14: eaardhadhaatukasye"nvalaade.h
+15:tane"nva"si
+16:li"n,
+17:v.r"nv.r~no.h
+18:li"n.h,
+19:ei"n pararupam
+20:v.r"nv.r~naavudaatau
+21:tatraapi v.r"nsthal
+22:vyaa"nparibhyo
+23:samudaa"nbhyo
+24: esmipuu"nra~njva"saa.m
+25:k.rg.rd.r"ndh.r"np.rccchataya.h
+26: eli"n.h
+27:"nti.h
+28:"nti.h
+29:saarvadhaatukasya "ntvim,
+30:"ntvim
+31:"nseradaade"sa.h
+32:ana"nsau,
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a7p3.htm#
 1:aa"ntra
 2:aa"npuurvasya
@@ -1314,24 +975,19 @@
 37:taata"n aaèpade"sikena
 38:"ntveni
 39:baadhyate---.th"ncci pinna
-40:punarya"nntam
-41:ya"nnte
-42:lu"n,
+40:lu"n,
+41:lu"n,
+42:asterla"n,
 43:lu"n,
-44:asterla"n,
-45:lu"n,
-46:ti"ntyinuvartayantiiti
-47:.thbhuusuvosti"n.a
-48:"nsirvanaamasthaanayo.h
-49:| "nsirvanaamasthaanayordiirghaantasyaasambhavaat
-50:"nccchibde
-51:tu "n"scaasaavicceti
-52:"ntiiiti
-53:tena "nti
-54:"nccaasiu bhuutapuurva
-55:vaa "ntsuupisa.mkhyaanam.a
-56:"nsinnipaatak.rta.m
-57:|| .thaa"n.h.a
+44:ti"ntyinuvartayantiiti
+45:.thbhuusuvosti"n.a
+46:"nccchibde
+47:tu "n"scaasaavicceti
+48:"ntiiiti
+49:tena "nti
+50:"nccaasiu bhuutapuurva
+51:vaa "ntsuupisa.mkhyaanam.a
+52:|| .thaa"n.h.a
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a7p4.htm#
 1:.thca"n.a
 2:lu"n,
@@ -1343,191 +999,117 @@
 8:aak.rtiratra jaatirnirddi"syate---ca"nparaa
 9:.nyaak.rterevatvaadya"sca"nparo
 10:ca"npara
-11:ca"nmapek.sate,
-12:li"n, sambhavati
-13:vidhiiyate--.thcak.si"n.h
-14:.thasyativaktikhyaatibhyo.a"n.a
-15:ya"n, paratvaannityatvaaccaaya"nade"se
-16:tasmaadalaukikena prakriyaavaakyenaa"n.h
-17:rii"n.h
-18:ata aaha---k"ntiityetidiha
-19:ya"n,
-20:ya"n.a
-21:ri"nstu
-22:.thd.r"n.a aadare.a,
-23:| ri"nvicana.m
-24:| vidhyaadili"n,
-25:baadhyate, vi.sayabhedaat---ya"nntasya
-26:di"nbhaatra.m
-27:| .thlu"nsanorghasl.r.a
-28:.thata"n.a
-29:.thme"n pra.nidaane.a---trayaa.naamapi
-30:lu"n,
-31:khu"n.a
-32:.thanudaata"nti.h.a
-33:iti "ntvinimitamaatmanepada.m
-34:ya"nntaadaatmanepadam,
-35:"ntvaaiditi
-36:| .nyantaallu"n,
-37:ya"n.a
-38:ya"sca"n sa
-39:maa"n,
-40:ohaa"n---bh.r~naadaya.h
-41:.thsmipuu"nra~njva"saa.m
-42:haa"nhaakii.h
-43:ya"n,
-44:ca"npare.anaglope
-45:ca"npare.a
-46:saamaanaadhikara.ne; ca"nparasya
+11:li"n, sambhavati
+12:vidhiiyate--.thcak.si"n.h
+13:.thasyativaktikhyaatibhyo.a"n.a
+14:ya"n, paratvaannityatvaaccaaya"nade"se
+15:tasmaadalaukikena prakriyaavaakyenaa"n.h
+16:rii"n.h
+17:ya"n,
+18:ya"n.a
+19:ri"nstu
+20:.thd.r"n.a aadare.a,
+21:| ri"nvicana.m
+22:| vidhyaadili"n,
+23:di"nbhaatra.m
+24:| .thlu"nsanorghasl.r.a
+25:.thata"n.a
+26:.thme"n pra.nidaane.a---trayaa.naamapi
+27:lu"n,
+28:khu"n.a
+29:.thanudaata"nti.h.a
+30:iti "ntvinimitamaatmanepada.m
+31:"ntvaaiditi
+32:| .nyantaallu"n,
+33:ya"n.a
+34:ya"sca"n sa
+35:maa"n,
+36:ohaa"n---bh.r~naadaya.h
+37:.thsmipuu"nra~njva"saa.m
+38:haa"nhaakii.h
+39:ya"n,
+40:ca"npare.anaglope
+41:ca"npare.a
+42:saamaanaadhikara.ne; ca"nparasya
+43:ca"npare
+44:ca"nparasyaanyasyaasambhavaat
+45:.thca"npare.a
+46:vi"se.sa.nam---ca"npare yada"nga.m
 47:ca"npare
-48:ca"nparasyaanyasyaasambhavaat
-49:.thca"npare.a
-50:vi"se.sa.nam---ca"npare yada"nga.m
-51:ca"npare
-52:etacca .thca"npare.a
-53:tenaayamartha.h---ca"npare .naavako
-54:ca"npare
-55:ya"sca"nparo
-56:ca"npara.h;
+48:etacca .thca"npare.a
+49:tenaayamartha.h---ca"npare .naavako
+50:ca"npare
+51:ya"sca"nparo
+52:ca"npara.h;
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a8p1.htm#
-1:"nmu.t,
-2:.the"n.h
-3:"nsimbuddhyo.h.a
-4:ca ti"n,
-5:ti"nntatve
-6:tati"nntenaabhidhiiyate
-7:ti"nntaani
-8:dvirvacana.m ti"nntaanaam,
-9:yadyapi ti"nntasya
-10:ya"nntasyaapi
-11:ya"n,
-12:dhaatorya"n,
-13:| yati"nntamityaadi
-14:sa.mj~naa, .thpa~ncamyapaa"nparibhi.h.a
-15:.thekati"npadasamuuho
-16:ekaa ti"nvibhaktiryatra
-17:ti"nntasya
-18:ya"nntasya; lo.ta.h
-19:ti"nntasya
-20:ti"nntasya
-21:aa"nbhividhau
-22:kya"nnta.m
-23:ti"nntasya
-24:ti"nntasya
-25:tata"sca .thti"n"nti"n.h.a
-26:ti"nntasya
-27:.sa.s.tha.lekavacane "nso.asi
-28:.th"nsi"nso"sca.a
-29:ti"nntadvayayogaat
-30:ti"nntasya nighaataprasa"nga.h
-31:ti"n.h paraa.nyanudaataani
-32:aahosvidanudaatavi"se.sa.nam---ti"n.h paraa.ni
-33:|| ti"n"nti"n.h
-34:ti"nntadvayamasti,
-35:ti"nnta.m
-36:ti"nntamaatrasya
-37:aa"npuurvaadi.no
-38:ti"nntavi"se.sa.namapuurvatva.m
-39:kevalati"nntasyaanantaya
-40:ti"nntasya;
-41:la"nvat.a
-42:la"nvadbhaavaat
-43:"nti.h.a
-44:ti"nntasya
-45:ti"nvibhaktiriti
-46:ti"nntena
-47:ti"nntena
-48:yadra.l"n, yadiiyam,
-49:yadra.l"n vaayurityaadau
-50:ti"nnte
-51:ti"nntasya
-52:ti"nnta.m
-53:malopastii"n ne.s.ta.h---daaru.na.m
-54:ti"n"sca
-55:| ti"nnte.api
-56:ti"nnte
-57:ti"nva"si.syate
-58:caatraa"n.h kriyaayogo.asti,
-59:nighaataprati.sedhaati"nntamudaatavat
-60:ti"nnte
-61:ti"nntamaatre bhavati
-62:ti"nnte.api pratyayodaatatvenodaatavati
-63:ti"nnighaata.h
+1:ca ti"n,
+2:ya"n,
+3:dhaatorya"n,
+4:sa.mj~naa, .thpa~ncamyapaa"nparibhi.h.a
+5:.thekati"npadasamuuho
+6:ekaa ti"nvibhaktiryatra
+7:aa"nbhividhau
+8:tata"sca .thti"n"nti"n.h.a
+9:.sa.s.tha.lekavacane "nso.asi
+10:.th"nasi"nso"sca.a
+11:ti"n.h paraa.nyanudaataani
+12:aahosvidanudaatavi"se.sa.nam---ti"n.h paraa.ni
+13:|| ti"n"nti"n.h
+14:aa"npuurvaadi.no
+15:la"nvat.a
+16:la"nvadbhaavaat
+17:"nti.h.a
+18:ti"nvibhaktiriti
+19:yadra.l"n, yadiiyam,
+20:yadra.l"n vaayurityaadau
+21:malopastii"n ne.s.ta.h---daaru.na.m
+22:ti"n"sca
+23:ti"nva"si.syate
+24:caatraa"n.h kriyaayogo.asti,
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a8p2.htm#
-1:godhu"nmaanityaadau
-2:lu"n,
-3:"n.h,
-4:.the"n.h
-5:.the"n.h
-6:lu"n,
-7:bhiderla"n,
-8:vaa"nnayanamiti
-9:bhavati, .thno"ndaatvo.h.a
-10:ti"nnighaata.h
-11:| hanterla"ntipo
-12:"nsi.mbuddhyo.h.a
-13:"nsimbuddhyo.h
-14:"nsimbuddhyordvayorapi
-15:ca vaartikama---"nsimbuddhyoranutarapada
-16:lu"n,
-17:lir"ntha.m
-18:.thaa"n.h
-19:lu"n"scaapiiti
-20:lui"n ta-thaasau
-21:.thpuu"n"sca.a
-22:"suu"n.a
-23:| ti"nntaanukara.naat
-24:lu"n.a,
-25:ti"nntametat
-26:la"n,
-27:tathaana"nvaan
-28:pratya"nRèótikaayana
-29:iti "nmu"n
+1:lu"n,
+2:"n.h,
+3:lu"n,
+4:bhiderla"n,
+5:bhavati, .thno"ndaatvo.h.a
+6:| hanterla"ntipo
+7:lu"n,
+8:lir"ntha.m
+9:.thaa"n.h
+10:lu"n"scaapiiti
+11:.thpuu"n"sca.a
+12:"suu"n.a
+13:lu"n.a,
+14:la"n,
+15:tathaana"nvaan
+16:pratya"nRèótikaayana
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a8p3.htm#
-1:.th"nmo
-2:"nmu.nnityam.a
-3:|| "n.no.h
-4:|| "n.h
-5:|| "nmo
-6:"nmu.n
-7:|| "nma.h,
-8:"nmu.t---ityubhayatraapi
-9:hrasvaadityetan"nmo
-10:"nm
-11:.th"nma.h.a iti
-12:"nmu.t praapnotiityaa"sa"nkyaaha---iheti
-13:.thnipaata ekaajanaa"n.a
-14:supti"nntasya;
-15:lu"n,
-16:lu"n,
-17:clera"n,
-18:.th"saasa ida"nhalo.h.a
-19:aderlu.d .thlu"nsanorghasl.r.a,
-20:bhavati, svaperya"n,
-21:ya"n.a
-22:la"n,
-23:.thli"n.h salopo.anantyasya.a
-24:na bhavati || ambaambagobhuumisavyaapadvitrikuseku"sa"nvava"nguma~njipu~njiparamebarhirdivyagnibhya.h
-25:itya"n,
-26:li"n,
-27:.thti"n"sca.a
-28:.thkimeti"nvyayaghaat.a
-29:ya"n.a
-30:ya"n.a
+1:|| "n.no.h
+2:|| "n.h
+3:.thnipaata ekaajanaa"n.a
+4:lu"n,
+5:lu"n,
+6:clera"n,
+7:.th"saasa ida"nhalo.h.a
+8:aderlu.d .thlu"nsanorghasl.r.a,
+9:bhavati, svaperya"n,
+10:ya"n.a
+11:la"n,
+12:.thli"n.h salopo.anantyasya.a
+13:na bhavati || ambaambagobhuumisavyaapadvitrikuseku"sa"nvava"nguma~njipu~njiparamebarhirdivyagnibhya.h
+14:itya"n,
+15:li"n,
+16:.thti"n"sca.a
+17:.thkimeti"nvyayaghaat.a
+18:ya"n.a
+19:ya"n.a
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.a8p4.htm#
-1:tata.h .tha.tkupvaa"nnumbhi.h.a
-2:|| a.tkupvaa"nnumvyavaaye.api
-3:bandhane.a, paryaa"npuurva.h
-4:| .thupapadamati"n.a
-5:"sa"nkyaaha---maa"nme"nergraha.nami.syata
-6:.tha.takupvaa"nnumvyavaaye.a
-7:"nsimbuddhyo.h.a
-8:.nyantaallu"n,
-9:cle"sca"n,
-10:.thdvyaco.atasti"n.h.a
-11:.tha.tkupvaa"nnumvyavaaye.api.a
-12:bh.rjjatiinaa.m "ntiiiti
-13:na"n,
-14:vaa"nmayamiti
+1:bandhane.a, paryaa"npuurva.h
+2:| .thupapadamati"n.a
+3:.nyantaallu"n,
+4:cle"sca"n,
+5:.thdvyaco.atasti"n.h.a
+6:bh.rjjatiinaa.m "ntiiiti
+7:na"n,
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.index.htm#
 #PADAMANJARI/PADAMANJARI/Kasika.Padamanjari.index.html#
