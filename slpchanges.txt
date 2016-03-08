@@ -41,3 +41,6 @@ ONH:ONaH
 NdAdeSo:NidAdeSo
 NdAdeSiH:NidAdeSaH
 Npi:Napi
+vfdDaSibda:vfdDiSabda
+Aè:O
+u'vfte':vftte

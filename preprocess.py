@@ -21,7 +21,7 @@ def snchanges(indata):
 			indata = indata.replace(okword,rep)
 	return indata
 def slpchanges(indata):
-	okwords = open('slpchanges.txt').read().split()
+	okwords = codecs.open('slpchanges.txt','r','utf-8').read().split()
 	for okword in okwords:
 			splits = okword.split(':')
 			if not len(splits) == 2:
