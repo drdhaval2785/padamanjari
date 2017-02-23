@@ -22,7 +22,7 @@ def add_tags1(x):
 		exit(0)
 	result = '\n\n'+num+'|'+sutra+'|'+sutra+' '+num+'|'+num+' '+sutra+'\n'+sutra+' '+num+' <BR> '
 	result = result.replace(u'।','.')
-	result = result.replace(u'अथ प्रथमाध्याये प्रथमः पादः पदमञ्जरी \n\n१.१.१',u'१.१.१')
+	result = result.replace(u'अथ प्रथमाध्याये प्रथमः पादः पदमञ्जरी \n\n1.1.1',u'1.1.1')
 	return result
 
 fin = codecs.open('padamanjari.txt','r','utf-8')
