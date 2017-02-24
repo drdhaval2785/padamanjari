@@ -13,8 +13,8 @@ def add_tags1(x):
 	global prevsutra
 	m = re.search(u'^(.*)॥([१२३४५६७८९०। /-]*)॥',x)
 	sutra = m.group(1).strip()
-	num = transcoder.transcoder_processString(m.group(2).strip(),'deva','slp1')
-	current_sutra = num.split('.')
+	num = m.group(2).strip()
+	current_sutra = num.split(u'।')
 	print current_sutra
 	if len(current_sutra) != 3:
 		print current_sutra
@@ -22,7 +22,6 @@ def add_tags1(x):
 		exit(0)
 	result = '\n\n'+num+'|'+sutra+'|'+sutra+' '+num+'|'+num+' '+sutra+'\n'+sutra+' '+num+' <BR> '
 	result = result.replace(u'।','.')
-	result = result.replace(u'अथ प्रथमाध्याये प्रथमः पादः पदमञ्जरी \n\n1.1.1',u'1.1.1')
 	return result
 
 fin = codecs.open('padamanjari.txt','r','utf-8')
@@ -38,5 +37,6 @@ for line in input:
 		output += add_tags1(line)
 	else:
 		output += line.strip()+' '
+output = output.replace(u'अथ प्रथमाध्याये प्रथमः पादः पदमञ्जरी \n\n१.१.१',u'१.१.१')
 fout.write(output+'\n')
 fout.close()
