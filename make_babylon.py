@@ -29,7 +29,7 @@ fin = codecs.open('padamanjari.txt','r','utf-8')
 input = fin.readlines()	
 fin.close()
 output = ''
-fout = codecs.open('babylon/padamanjarI.txt','w','utf-8')
+fout = codecs.open('babylon/padamanjarI.babylon','w','utf-8')
 counter = 0
 prevsutra = (1,1,0)
 for line in input:
